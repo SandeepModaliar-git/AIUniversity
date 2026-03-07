@@ -1,83 +1,78 @@
 {
   "level": "BEGINNER",
-  "query": "Agentic AI",
-  "revised_query": "Revised Query : Beginner Agentic AI Introduction",
-  "serper_results": [
-    "upblQZigz0U",
-    "MxyRjL7NG18",
-    "EUey9L9sgzE",
-    "nPJAayT2Csw",
-    "xOS0BhhdUbo",
-    "ghnFmeY4bO4",
-    "wrvgayepGts",
-    "eFXPgpE1FlE",
-    "iT1Iik90Vck",
-    "tr5Fapv80Cw",
-    "Q38lfacX6i0"
+  "query": "Agentic AI Beginner",
+  "revised_query": "Agentic AI Basics for Beginners",
+  "videos": [
+    {
+      "title": "How to Build & Sell AI Agents: Ultimate Beginner\u2019s Guide",
+      "channel": "Liam Ottley",
+      "authority_score": 0.7,
+      "recommendation": "recommended as primary supporting material",
+      "url": "https://www.youtube.com/watch?v=w0H1-b044KY"
+    },
+    {
+      "title": "AI Basics for Beginners",
+      "channel": "codebasics",
+      "authority_score": 0.56,
+      "recommendation": "suitable as supplementary learning",
+      "url": "https://www.youtube.com/watch?v=VGFpV3Qj4as"
+    },
+    {
+      "title": "AI Agents Tutorial For Beginners | Agno Tutorial",
+      "channel": "codebasics",
+      "authority_score": 0.53,
+      "recommendation": "suitable as supplementary learning",
+      "url": "https://www.youtube.com/watch?v=EUey9L9sgzE"
+    },
+    {
+      "title": "Agentic AI Tutorial for Beginners | Langgraph Tutorial",
+      "channel": "codebasics",
+      "authority_score": 0.52,
+      "recommendation": "suitable as supplementary learning",
+      "url": "https://www.youtube.com/watch?v=CnXdddeZ4tQ"
+    },
+    {
+      "title": "AI Agents in 38 Minutes - Complete Course from Beginner to Pro",
+      "channel": "Marina Wyss - AI & Machine Learning",
+      "authority_score": 0.52,
+      "recommendation": "suitable as supplementary learning",
+      "url": "https://www.youtube.com/watch?v=sNvuH-iTi4c"
+    },
+    {
+      "title": "Agentic AI With Langgraph And MCP Crash Course-Part 1",
+      "channel": "Krish Naik",
+      "authority_score": 0.51,
+      "recommendation": "suitable as supplementary learning",
+      "url": "https://www.youtube.com/watch?v=dIb-DujRNEo"
+    },
+    {
+      "title": "Build Your First AI Agent in 20 Minutes (No Coding Required)",
+      "channel": "codebasics",
+      "authority_score": 0.51,
+      "recommendation": "suitable as supplementary learning",
+      "url": "https://www.youtube.com/watch?v=Jekzc6BM5_w"
+    },
+    {
+      "title": "N8N Course on Basics of AI Agents for Non-tech Beginners",
+      "channel": "The Cutting Edge School",
+      "authority_score": 0.5,
+      "recommendation": "suitable as supplementary learning",
+      "url": "https://www.youtube.com/watch?v=06sBCkYF7PE"
+    },
+    {
+      "title": "Building Agentic AI Workloads \u2013 Crash Course",
+      "channel": "freeCodeCamp.org",
+      "authority_score": 0.48,
+      "recommendation": "suitable as supplementary learning",
+      "url": "https://www.youtube.com/watch?v=tr5Fapv80Cw"
+    },
+    {
+      "title": "CrewAI Tutorial | Agentic AI Tutorial",
+      "channel": "codebasics",
+      "authority_score": 0.46,
+      "recommendation": "suitable as supplementary learning",
+      "url": "https://www.youtube.com/watch?v=G42J2MSKyc8"
+    }
   ],
-  "authority_scores": [
-    0.21,
-    0.7,
-    0.69,
-    0.01,
-    0.88,
-    0.13,
-    0.0,
-    0.05,
-    0.0,
-    0.17,
-    0.0
-  ],
-  "recommendations": [
-    "optional reference material",
-    "recommended as primary supporting material",
-    "recommended as primary supporting material",
-    "optional reference material",
-    "recommended as core curriculum material",
-    "optional reference material",
-    "optional reference material",
-    "optional reference material",
-    "optional reference material",
-    "optional reference material",
-    "optional reference material"
-  ],
-  "titles": [
-    "Agentic AI Full Course 2025  | AI Agents Tutorial For Beginners | Agentic AI Course | Edureka",
-    "AGENTIC WORKFLOWS 6 HOUR COURSE: Beginner to Pro (2026)",
-    "AI Agents Tutorial For Beginners | Agno Tutorial",
-    "Introduction to Advanced Generative AI & Agentic AI | Naresh IT",
-    "What is Agentic AI? Important For GEN AI In 2025",
-    "Day 1- End To End Agentic AI Project With LLMOPS",
-    "Introduction to Agents: Building Agentic AI Without Frameworks | OpenAI API Tutorial",
-    "AI Agents Full Course 2026 | AI Agents Tutorial for Beginners | How to Build AI Agents | Simplilearn",
-    "Practical Introduction to Gen AI and Agentic AI - 19Feb Live Workshop - Replay",
-    "Building Agentic AI Workloads \u2013 Crash Course",
-    "Agentic AI Tutorial | Multi-Agent Systems, Workflows & Real-World Use Cases"
-  ],
-  "channels": [
-    "edureka!",
-    "Nick Saraev",
-    "codebasics",
-    "Naresh i Technologies",
-    "Krish Naik",
-    "Krish Naik",
-    "InsiderMiner",
-    "Simplilearn",
-    "Venkata Reddy AI Classes",
-    "freeCodeCamp.org",
-    "NIIT"
-  ],
-  "urls": {
-    "upblQZigz0U": "https://www.youtube.com/watch?v=upblQZigz0U",
-    "MxyRjL7NG18": "https://www.youtube.com/watch?v=MxyRjL7NG18",
-    "EUey9L9sgzE": "https://www.youtube.com/watch?v=EUey9L9sgzE",
-    "nPJAayT2Csw": "https://www.youtube.com/watch?v=nPJAayT2Csw",
-    "xOS0BhhdUbo": "https://www.youtube.com/watch?v=xOS0BhhdUbo",
-    "ghnFmeY4bO4": "https://www.youtube.com/watch?v=ghnFmeY4bO4",
-    "wrvgayepGts": "https://www.youtube.com/watch?v=wrvgayepGts",
-    "eFXPgpE1FlE": "https://www.youtube.com/watch?v=eFXPgpE1FlE",
-    "iT1Iik90Vck": "https://www.youtube.com/watch?v=iT1Iik90Vck",
-    "tr5Fapv80Cw": "https://www.youtube.com/watch?v=tr5Fapv80Cw",
-    "Q38lfacX6i0": "https://www.youtube.com/watch?v=Q38lfacX6i0"
-  }
+  "no_of_videos": 10
 }
