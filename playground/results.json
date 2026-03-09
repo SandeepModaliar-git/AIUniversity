@@ -1,0 +1,513 @@
+[
+  {
+    "task": "Introduction to AI",
+    "focus": "Basic concepts and terminology",
+    "week": 1,
+    "day": 1,
+    "videos": [
+      {
+        "title": "AI Basics for Beginners",
+        "channel": "codebasics",
+        "authority": {
+          "score": 0.76,
+          "views": 671453,
+          "likes": 10879,
+          "comments": 429
+        },
+        "recommendation": "recommended as core curriculum material",
+        "url": "https://www.youtube.com/watch?v=VGFpV3Qj4as",
+        "description": "Essential concepts that you need to know in AI. If you are just starting out with AI then you need to understand the following fundamental concepts that are covered in this video,\n\n\u2b50\ufe0f Timestamps \u2b50\ufe0f\n0:00 - 0:15: Introduction\n0:16  - 3:01: AI Family Tree\n3:02 - 15:54 : Machine Learning\n15:55 - 34:17: Deep Learning\n34:18 - 36:49 : Generative AI\n36:50 - 39:20 : Traditional AI vs Gen AI\n39:21 - 44:05 : Large Language Models (LLMs)\n44:06 - 56:01 : AI Agents and Agentic Ai\n56:02 - end : AI Agent vs Agentic Ai vs Generative AI\n\nDo you want to learn technology from me? Check https://codebasics.io/?utm_source=description&utm_medium=yt&utm_campaign=description&utm_id=description for my affordable video courses.\n\nNeed help building software or data analytics/AI solutions? My company https://www.atliq.com/ can help. Click on the Contact button on that website.\n\n\ud83c\udfa5 Codebasics Hindi channel: https://www.youtube.com/channel/UCTmFBhuhMibVoSfYom1uXEg\n\n#\ufe0f\u20e3 Social Media #\ufe0f\u20e3\n\n\ud83e\uddd1\u200d\ud83e\udd1d\u200d\ud83e\uddd1 Discord for Community Support:  https://discord.gg/r42Kbuk\n\ud83d\udcf8 Codebasics' Instagram: https://www.instagram.com/codebasicshub/\n\ud83d\udcdd Codebasics' Linkedin :  https://www.linkedin.com/company/codebasics/\n\n------\n\n\ud83d\udcdd Dhaval's Linkedin : https://www.linkedin.com/in/dhavalsays/\n\ud83d\udcdd Hem's Linkedin: https://www.linkedin.com/in/hemvad/\n\n\ud83d\udcfd\ufe0f Hem's Instagram for daily tips: https://www.instagram.com/hemvadivel/\n\ud83d\udcf8 Dhaval's Personal Instagram: https://www.instagram.com/dhavalsays/\n\n\ud83d\udd17 Patreon: https://www.patreon.com/codebasics?fan_landing=true"
+      },
+      {
+        "title": "Lecture 1 \u2013 Course Introduction (MIT How to AI Almost Anything, Spring 2025)",
+        "channel": "Paul Liang",
+        "authority": {
+          "score": 0.65,
+          "views": 53960,
+          "likes": 1182,
+          "comments": 32
+        },
+        "recommendation": "recommended as core curriculum material",
+        "url": "https://www.youtube.com/watch?v=0MYt0u3CW5I",
+        "description": "Lecture 1 \u2013 Course Introduction (MIT How to AI Almost Anything, Spring 2025)\n\nTopics: introduction to AI and AI research\n\n----------------------------------------------------------------------------------------------------------------\nMIT MAS.S60 How to AI Almost Anything, Spring 2025\nWebsite: https://mit-mi.github.io/how2ai-course/spring2025/\nInstructor: Paul Liang\n\nArtificial Intelligence (AI) holds great promise as a technology to enhance digital productivity, physical interactions, overall well-being, and the human experience. To enable the true impact of AI, these systems will need to be grounded in real-world data modalities, from language-only systems to vision, audio, sensors, medical data, music, art, smell, and taste. This course will introduce the basic principles of AI (focusing on modern deep learning and foundation models) and how we can apply AI to novel real-world data modalities. In addition, we will introduce the principles of multimodal AI that can process many modalities at once, such as connecting language and multimedia, music and art, sensing and actuation, and more.\n\nThrough lectures, readings, discussions, and a significant research component, this course will develop critical thinking skills and intuitions when applying AI to new data modalities, knowledge of recent technical achievements in AI, and a deeper understanding of the AI research process."
+      },
+      {
+        "title": "AI Full Course 2025 | AI Tutorial for Beginners | Artificial Intelligence Course | Simplilearn",
+        "channel": "Simplilearn",
+        "authority": {
+          "score": 0.64,
+          "views": 55200,
+          "likes": 1156,
+          "comments": 23
+        },
+        "recommendation": "recommended as core curriculum material",
+        "url": "https://www.youtube.com/watch?v=LGCZ-Fhm48c",
+        "description": "\ud83d\udd25Professional Certificate in AI and Machine Learning: https://www.simplilearn.com/professional-aiml-program?utm_campaign=LGCZ-Fhm48c&utm_medium=Lives&utm_source=Youtube\n\ufe0f\ud83d\udd25 Professional Certificate in AI and Machine Learning - https://www.simplilearn.com/professional-aiml-program?utm_campaign=LGCZ-Fhm48c&utm_medium=Lives&utm_source=Youtube\n\ud83d\udd25Professional Certificate Program in Generative AI and Machine Learning - IITG (India Only)  - https://www.simplilearn.com/applied-generative-ai-course?utm_campaign=LGCZ-Fhm48c&utm_medium=Lives&utm_source=Youtube\n\ud83d\udd25Advanced Executive Program In Applied Generative AI - https://www.simplilearn.com/applied-generative-ai-course?utm_campaign=LGCZ-Fhm48c&utm_medium=Lives&utm_source=Youtube\n\nThe AI Full Course 2025 By Simplilearn begins with an introduction to AI and a complete AI Engineer Roadmap for 2026. Learners then explore Reinforcement Learning, followed by the foundations of Deep Learning, Recurrent Neural Networks, and a Neural Network tutorial. The course provides hands-on practice with building LLM chatbots, creating an AI Clone, and even developing an iOS App powered by AI. Advanced topics include AI Bias, Multimodal AI, and Transformers in AI, equipping learners with cutting-edge knowledge. To strengthen skills, the course includes AI Projects, a guide on the Top 10 AI skills to earn in 2025, and concludes with Machine Learning interview questions and answers to prepare learners for career opportunities.\n\nFollowing are the topics covered in the AI Agents Full Course 2026:\n\n00:00:00 - Introduction to Artificial Intelligence Full Course 2025\n00:03:00 - Introduction to AI \n00:22:06 - What is Deep learning \n01:06:59 - Mathematics for machine learning \n02:57:23 - AI Engineer Roadmap\n03:06:42 - Reinforcement Learning\n06:24:39 - Recurrent Neural Network\n08:28:54 - Neural Network Tutorial\n09:22:02 - Create LLM Chatbots full demo\n10:03:57 - How to create AI Clone \n10:14:50 - Transformers in AI \n10:22:08 - AI Projects for Beginners\n\n\u2705 Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n\u23e9 Check out the Artificial Intelligence training videos: https://youtube.com/playlist?list=PLEiEAq2VkUULa5aOQmO_al2VVmhC-eqeI \n\n#ai #aiengineering #aiengineer #generativeAI #AIAgents #AIAgentsTutorial #AI #GenAI #ArtificialIntelligence #simplilearn #2025 \n\n\u27a1\ufe0f About Professional Certificate in AI and Machine Learning\n\nBuild expertise in AI, ML, and Generative AI with hands-on Python, Deep Learning, and Agentic Frameworks training. Gain real-world experience through projects and develop high-demand skills like AI automation, LLM proficiency, and machine learning. Stay ahead in the AI revolution and future-proof your career\u2014start your journey today!\n\nKey Features\n\u2705 \n\u2705 Live-online masterclasses delivered by Industry Expert and staff and IBM experts\n\u2705 Live interactive sessions on the latest AI trends, such as ChatGPT, generative AI, prompt engineering, and more\n\u2705 Core curriculum delivered in live classes by industry experts\n\u2705 Simplilearn's JobAssist helps you get noticed by top hiring companies\n\u2705 Practical exposure to ChatGPT, LLM-based AI solutions, and other AI applications.\n\u2705 3 capstones and 15+ hands-on projects from various industry domains.\n\u2705 \n\u2705 Exclusive hackathons and Ask Me Anything sessions by IBM\n\nLearning Path\n\u2705 PC AIML - Program Induction\n\u2705 PC AIML: Programming Refresher\n\u2705 PC AIML - Applied Data Science with Python\n\u2705 PC AIML - Machine Learning\n\u2705 PC AIML - Deep Learning Specialization\n\u2705 PC AIML - Generative AI Literacy\n\u2705 PC AIML - Generative AI Essentials by IBM\n\u2705 PC AIML - Foundation Models and Generative AI Platforms by IBM\n\u2705 PC AIML Capstone\nElectives:\n\u2705 Academic Masterclass\n\u2705 Industry Masterclass by IBM\n\u2705 PC AIML - NLP and Speech Recognition\n\u2705 PC AIML - Advanced Generative AI\n\u2705 PC AIML - Prompt Engineering Essentials by IBM\n\u2705 PC AIML - Agentic AI Masterclass\n\nSkills Covered\n\u2705 Generative AI\n\u2705 Prompt Engineering\n\u2705 ChatGPT\n\u2705 Conversational AI\n\u2705 Large Language Models\n\u2705 Supervised and Unsupervised Learning\n\u2705 Model Training and Optimization\n\u2705 Ensemble Methods\n\u2705 Deep Learning\n\u2705 Natural Language Processing\n\u2705 Speech Recognition\n\u2705 Machine Learning Algorithms\n\u2705 Agentic Frameworks\n\n\ud83d\udc49 Learn More At: https://www.simplilearn.com/professional-aiml-program?utm_campaign=LGCZ-Fhm48c&utm_medium=Lives&utm_source=Youtube"
+      },
+      {
+        "title": "Artificial Intelligence Full Course 2026 | AI Tutorial for Beginners | Intellipaat",
+        "channel": "Intellipaat",
+        "authority": {
+          "score": 0.59,
+          "views": 19957,
+          "likes": 453,
+          "comments": 6
+        },
+        "recommendation": "recommended as primary supporting material",
+        "url": "https://www.youtube.com/watch?v=sU4vg-ZufEY",
+        "description": "In this Free Artificial Intelligence Full Course, you\u2019ll get a structured introduction to Artificial Intelligence, starting with what intelligence is and the different types of AI. The session on Artificial Intelligence for beginners then moves into core Machine Learning concepts, including Artificial Neural Networks (ANN), perceptrons, gradient descent, and linear regression, building a strong conceptual foundation.\nYou\u2019ll also gain hands-on experience using Keras, explore how neural networks work, and understand key components such as activation functions, loss functions, epochs, and data scaling. Real-world examples help simplify complex concepts and connect theory with practice.\nFinally, this comprehensive AI course covers neural networks for both classification and regression, featuring hands-on demonstrations using the Boston House Price dataset and the MNIST dataset. It concludes with essential concepts such as overfitting and regularization, enabling you to build efficient, accurate, and reliable AI models.\n\n\ud83d\udcd6 Below are the concepts covered in the video on \u201cArtificial Intelligence Full Course\u201d:\n00:00:00 \u2013 Introduction to Artificial Intelligence\n00:01:15 \u2013 What is Intelligence  \n00:45:44 \u2013 Types of AI  \n01:31:45 \u2013 What is ANN (Artificial Neural Networks)\n01:45:30 \u2013 Perceptron  \n03:02:44 \u2013 Gradient Descent  \n03:34:05 \u2013 Linear Regression - Gradient Descent  \n03:49:00 \u2013 Hands-on  \n04:39:32 \u2013 Keras  \n04:49:35 \u2013 What are Neural Networks  \n05:27:30 \u2013 Example of Neural Network  \n06:17:30 \u2013 Activation Functions  \n06:56:59 \u2013 Neural Network Hands-on (Boston House Dataset)  \n07:31:02 \u2013 Understanding Loss Function  \n07:53:49 \u2013 Epochs  \n08:51:52 \u2013 Scaling  \n09:05:33 \u2013 Neural Networks for Classification Problems  \n09:48:39 \u2013 Hands-on with MNIST Dataset  \n11:03:33 \u2013 Overfitting  \n11:14:42 \u2013 Regularization\n\n#ArtificialIntelligence #AI #MachineLearning #DeepLearning\n\n\ud83d\udd25Enroll for Data Science & Artificial Intelligence: https://intellipaat.com/artificial-intelligence-deep-learning-course-with-tensorflow/\n\n\u27a1\ufe0f About the Course\nThis professional-level Artificial Intelligence & Deep Learning course is designed to take you from fundamentals to advanced AI topics through a mix of theory and practice. It focuses on deep learning concepts such as neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and practical tools like TensorFlow and Keras. The curriculum also covers generative AI elements (like Transformers, BERT, GPT, LangChain), natural language processing (NLP), image recognition, and real-world applications through hands-on projects using industry frameworks. There are no strict prerequisites, so beginners with basic programming interest can enroll and learn at their own pace.\n\n\u2705 Key Features - (Course Features)\n\ud83d\udc49\ud83c\udffc 45+ Live sessions across 7 months\n\ud83d\udc49\ud83c\udffc 210 Hrs Self-paced Videos\n\ud83d\udc49\ud83c\udffc Learn from IIT Faculty & Industry Practitioners\n\ud83d\udc49\ud83c\udffc Work on 10+ Projects\n\ud83d\udc49\ud83c\udffc 1:1 with Industry Mentors\n\ud83d\udc49\ud83c\udffc Resume Preparation and LinkedIn Profile Review\n\ud83d\udc49\ud83c\udffc 200 Hrs Project & Exercises\n\ud83d\udc49\ud83c\udffc 24/7 Support\n\n\ud83d\udccc Do subscribe to Intellipaat channel & come across more relevant Tech content: https://goo.gl/hhsGWb\n\n\ud83d\udcdaFor more information, please write back to us at sales@intellipaat.com or call us at IND: +91-7022374614 / US : 1-800-216-8930"
+      },
+      {
+        "title": "Artificial Intelligence Full Course | Artificial Intelligence Tutorial For Beginners | Simplilearn",
+        "channel": "Simplilearn",
+        "authority": {
+          "score": 0.56,
+          "views": 25424,
+          "likes": 442,
+          "comments": 1
+        },
+        "recommendation": "recommended as primary supporting material",
+        "url": "https://www.youtube.com/watch?v=hKVNdNAIvD4",
+        "description": "\"\ufe0f\ud83d\udd25 Michigan Engineering - Professional Certificate in AI and Machine Learning - https://www.simplilearn.com/professional-aiml-program?utm_campaign=hKVNdNAIvD4&utm_medium=Comments&utm_source=Youtube\n\ufe0f\ud83d\udd25IITK - Professional Certificate Course in Generative AI and Machine Learning - https://www.simplilearn.com/iitk-professional-certificate-course-ai-machine-learning?utm_campaign=hKVNdNAIvD4&utm_medium=Comments&utm_source=Youtube\n\ufe0f\ud83d\udd25Microsoft AI Engineer Program - https://www.simplilearn.com/ai-engineer-course?utm_campaign=hKVNdNAIvD4&utm_medium=Comments&utm_source=Youtube\n\ufe0f\ufe0f\ud83d\udd25 Michigan - Applied Generative AI Specialization - https://www.simplilearn.com/applied-ai-course?utm_campaign=hKVNdNAIvD4&utm_medium=Comments&utm_source=Youtube\"\n\nThis Video on Artificial Intelligence Full Course is a complete tutorial to understanding AI concepts, tools, and applications. It begins with what Artificial Intelligence is, the future of AI, and the AI engineer roadmap to help learners build their careers. You\u2019ll explore AI careers, essential AI projects, and generative AI (Gen AI), including hands-on Gen AI projects. The course provides practical insights into how to get a job in AI and covers key topics such as machine learning (ML), AI bias, and deep learning, along with the differences between AI, ML, and DL. Advanced concepts like ML algorithms, reinforcement learning, Q-learning, and transformers in AI are also explained. You\u2019ll learn about running Llama privately, prompt engineering, and LLM benchmarking, with an overview of multimodal AI and tools like LangChain and Cursor AI. Practical sessions include data analytics using AI, building websites with AI, creating and selling digital products using AI, and exploring tools like Notion for beginners and Gen AI tools for job interviews. Finally, topics like confusion matrix in ML, recurrent neural networks, and practical AI applications ensure you gain both theoretical knowledge and real-world skills to excel in AI.\n\nFollowing are the topics covered in this AI Full Course For Beginners: \n\n00:00:00 Introduction to Artificial Intelligence Full Course\n00:08:08 What is Artificial Intelligence\n00:17:14 Future of AI\n00:18:34 AI Engineer Roadmap\n00:33:15 AI Carrers\n00:46:34 AI Projects \n00:47:19 What is Gen AI \n01:05:37 Gen AI Projects\n01:12:43 How to get Job in AI \n02:09:20 What is ML\n02:15:01 AI Bias\n02:20:43 Open AI Strawberry\n02:27:42 Deep Learning\n02:33:53 Difference between AI ML and DL \n02:46:11 Machine learning algorithms\n03:03:56 ML Projects for Beginners \n03:05:03 Run Lama Privately\n03:13:47 Introduction to LLM \n03:23:34 What is Prompt Engineering\n03:32:27 LLM Benchmarkeing\n03:38:04 Mutimodel AI \n03:57:55 CHatgpt analyse\n07:15:52 Reinforcement Learning\n07:16:42 Q Learning \n07:39:25 Transformers in AI \n07:47:01 Langchain Explained \n08:18:41 Data Analytics using AI \n10:22:56 Recurrent Neural Network\n10:48:37 Build Website with AI \n11:00:31 Create and sell digital products using AI \n\n\u2705Subscribe to our Channel to learn more about the top Technologies: https://www.youtube.com/user/Simplilearn\n\n\u23e9 Check out the Artificial Intelligence tutorial videos: https://www.youtube.com/watch?v=ad79nYk2keg&list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq\n\n#ArtificialIntelligenceFullCourse #AIFullCourse #AIAndMLFullCourse #MachineLearning #AIAndMachineLearning #ArtificialIntelligenceFullCourse #MachineLearningFullCourse #Simplilearn\n\n\u27a1\ufe0f About Artificial Intelligence Engineer\n\nThis Artificial Intelligence Engineer course Created in partnership with IBM, this course introduces students to blended learning and prepares them to be AI and Data Science specialists. In Armonk, New York, IBM is a significant cognitive service and integrated cloud solution firm that provides many technology and consulting solutions.\nIBM is a leader in AI and Machine Learning technology verticals for 2021. This AI masters course will prepare students for Artificial Intelligence and Data Analytics careers.\n\n\u2705 Key Features\n- Add the IBM Advantage to your Learning\n- 25 Industry-relevant Projects and Integrated labs\n- Immersive Learning Experience\n- Simplilearn's JobAssist helps you get noticed by top hiring companies\n\n\u2705 Tools Covered\n- ChatGPT\n- Flask\n- Matplotlib\n- django\n- Python\n- Numpy\n- Pandas\n- SciPy\n- Keras\n- OpenCV\n- And Many More\u2026\n\n\n\ud83d\udc49Learn more at- https://www.simplilearn.com/iitk-professional-certificate-course-ai-machine-learning?utm_campaign=hKVNdNAIvD4&utm_medium=Lives&utm_source=Youtube"
+      }
+    ]
+  },
+  {
+    "task": "Understanding Agentic AI",
+    "focus": "Definition and real-world examples",
+    "week": 1,
+    "day": 2,
+    "videos": [
+      {
+        "title": "Explaining Agentic AI: The Good, the Bad & the Ugly",
+        "channel": "ExplainingComputers",
+        "authority": {
+          "score": 0.66,
+          "views": 83517,
+          "likes": 8589,
+          "comments": 1023
+        },
+        "recommendation": "recommended as core curriculum material",
+        "url": "https://www.youtube.com/watch?v=Gvt4TwGpqOs",
+        "description": "What are agentic AI and agentic operating systems? And what are their potential benefits, drawbacks and longer-term implications?\n\nFor further information, the websites and articles included in this video are as follows:\n\nPROTOCOLS:\n\nMCP website: https://modelcontextprotocol.io/docs/getting-started/intro\n\nGoogle announces the A2A protocol: https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/\n\nIBM\u2019s ACP integrated into A2A: https://lfaidata.foundation/communityblog/2025/08/29/acp-joins-forces-with-a2a-under-the-linux-foundations-lf-ai-data/\n\nA2A Protocol website: https://a2a-protocol.org/latest/\n\n\nORCHESTRATION PLATFORMS:\n\nMicrosoft AutoGen: https://www.microsoft.com/en-us/research/project/autogen/\n\nIBM WatsonX Orchestrate: https://www.ibm.com/products/watsonx-orchestrate\n\nAWS Bedroom AgentCore: https://aws.amazon.com/bedrock/agentcore/\n\nGoogle Vertex AI Agent Builder: https://cloud.google.com/products/agent-builder\n\nGoogle Gemini Enterprise https://cloud.google.com/gemini-enterprise\n\nAgentForce: https://www.salesforce.com/uk/agentforce/\n\nForethought: https://forethought.ai/\n\nOrigon AI: https://origon.ai/\n\n\nAGENTIC OPERATING SYSTEMS:\n\n\u201cMaking every Windows PC an AI PC\u201d: https://blogs.windows.com/windowsexperience/2025/10/16/making-every-windows-11-pc-an-ai-pc/\n\n\u201cExperimental Agentic Features\u201d in Windows: https://support.microsoft.com/en-us/windows/experimental-agentic-features-a25ede8a-e4c2-4841-85a8-44839191dfb3\n\nMicrosoft Agent 365: https://www.microsoft.com/en-us/microsoft-agent-365\n\nMIT Sloan Management Review and BCG article on the agentic enterprise (inc survey): https://sloanreview.mit.edu/projects/the-emerging-agentic-enterprise-how-leaders-must-navigate-a-new-age-of-ai/\n\nApple working on MCP support for agentic AI: https://9to5mac.com/2025/09/22/macos-tahoe-26-1-beta-1-mcp-integration/\n\n\nMore videos on computing and related topics can be found at:\nhttp://www.youtube.com/@ExplainingComputers\n\nAnd more videos on film and other making, plus retro tech, can be found on my Christopher Barnatt channel: http://www.youtube.com/@ChristopherBarnatt\n\nChapters:\n00:00 Titles & Intro\n00:48 Agentic AI Basics\n07:14 The Good\n09:53 The Bad\n11:48 The Ugly\n13:22 The Future\n\n#AgenticAI #agentic #Aiagent #agent #MCP #A2A #orchestration #ExplainingComputers"
+      },
+      {
+        "title": "AI Agents, Clearly Explained",
+        "channel": "Jeff Su",
+        "authority": {
+          "score": 0.66,
+          "views": 3916562,
+          "likes": 97296,
+          "comments": 2613
+        },
+        "recommendation": "recommended as core curriculum material",
+        "url": "https://www.youtube.com/watch?v=FwOTs4UxQS4",
+        "description": "My AI Toolkit: https://academy.jeffsu.org/ai-toolkit?utm_source=youtube&utm_medium=video&utm_campaign=177\n\nUnderstanding AI Agents doesn't require a technical background. This video breaks down the evolution from basic LLMs like #ChatGPT to AI Workflows and finally to true #AI Agents through practical, real-world examples.\n\nLearn the key differences between these technologies and discover how concepts like RAG and ReAct actually work in simple terms. Perfect for regular AI users who want to understand how these emerging technologies will impact their daily lives.\n\n*TIMESTAMPS*\n00:00 AI vs. AI Agents\n01:04 Level 1: LLMs\n02:17 Level 2: AI Workflows\n05:26 Level 3: AI Agents\n07:48 Real-world Example\n09:10 Summary\n\n*RESOURCES MENTIONED*\nHelena Liu's AI Workflow Tutorial: https://youtu.be/H0YRniHh2tg\nAndrew Ng's AI Agent Demo: https://youtu.be/KrRD7r7y7NY\n\n*BE MY FRIEND:*\n\ud83d\udce7 Subscribe to my newsletter - https://www.jeffsu.org/newsletter/?utm_source=youtube&utm_medium=video&utm_campaign=description\n\ud83d\udcf8 Instagram - https://instagram.com/j.sushie\n\ud83e\udd1d LinkedIn - https://www.linkedin.com/in/jsu05/\n\n*MY FAVORITE GEAR*\n\ud83c\udfac My YouTube Gear - https://www.jeffsu.org/yt-gear/\n\ud83c\udf92\u00a0Everyday Carry - https://www.jeffsu.org/my-edc/\n\n*MY TOP 3 FAVORITE SOFTWARE*\n\u274e\u00a0CleanShot X - https://geni.us/cleanshotx\n\u270d\ufe0f Skillshare - https://geni.us/skillshare-jeff\n\ud83d\udcbc\u00a0Teal - http://tealhq.co/jeffsu\n\n#aiagents"
+      },
+      {
+        "title": "What is Agentic AI and How Does it Work?",
+        "channel": "codebasics",
+        "authority": {
+          "score": 0.45,
+          "views": 576220,
+          "likes": 7865,
+          "comments": 313
+        },
+        "recommendation": "recommended as primary supporting material",
+        "url": "https://www.youtube.com/watch?v=15_pppse4fY",
+        "description": "What exactly is Agentic AI? In this video, we will go through an extremely simple explanation of Agentic AI. We will compare Agentic AI systems with Workflows that use LLMs but are not agentic in nature.\n\n00:00 Introduction\n00:13 RAG Based AI System\n01:06 Tool Augmented AI System\n02:08 Agentic AI System\n08:02 Agentic AI Apps with Code\n09:31 Low Code Agentic AI \n11:16 AI Agent vs Agentic AI\n11:42 Gen AI vs Agentic AI\n\nAnthropic agent guide: https://www.anthropic.com/engineering/building-effective-agents\nRAG and tool ammended AI system project 1: https://youtu.be/CO4E_9V6li0?si=4BhXW9c6HnPC2uww\nRAG and tool ammended AI system project 2: https://youtu.be/jLM6n4mdRuA?si=oKer2d5eyixiTgF5\nAgno reasoning agent: https://docs.agno.com/reasoning/reasoning-agents#reasoning-with-tools\n\n\ud83d\udc49 Check out PyCharm, the IDE built for data science and AI/ML professionals: https://jb.gg/try-pycharm-now\n\ud83d\udc49 Free 3-Month PyCharm Pro subscription with coupon code \u201cPyCharm2codebasics\u201d: https://jb.gg/pc_codebasics\nRedeem on new purchases before Feb 01, 2026\n\nDo you want to learn technology from me? Check https://codebasics.io/?utm_source=description&utm_medium=yt&utm_campaign=description&utm_id=description for my affordable video courses.\n\nNeed help building software or data analytics/AI solutions? My company https://www.atliq.com/ can help. Click on the Contact button on that website.\n\n\ud83c\udfa5 Codebasics Hindi channel: https://www.youtube.com/channel/UCTmFBhuhMibVoSfYom1uXEg\n\n#\ufe0f\u20e3 Social Media #\ufe0f\u20e3\n\n\ud83e\uddd1\u200d\ud83e\udd1d\u200d\ud83e\uddd1 Discord for Community Support:  https://discord.gg/r42Kbuk\n\ud83d\udcf8 Codebasics' Instagram: https://www.instagram.com/codebasicshub/\n\ud83d\udcdd Codebasics' Linkedin :  https://www.linkedin.com/company/codebasics/\n\n------\n\n\ud83d\udcdd Dhaval's Linkedin : https://www.linkedin.com/in/dhavalsays/\n\ud83d\udcdd Hem's Linkedin: https://www.linkedin.com/in/hemvad/\n\n\ud83d\udcfd\ufe0f Hem's Instagram for daily tips: https://www.instagram.com/hemvadivel/\n\ud83d\udcf8 Dhaval's Personal Instagram: https://www.instagram.com/dhavalsays/\n\n\ud83d\udd17 Patreon: https://www.patreon.com/codebasics?fan_landing=true"
+      },
+      {
+        "title": "Agentic AI With Langgraph And MCP Crash Course-Part 1",
+        "channel": "Krish Naik",
+        "authority": {
+          "score": 0.38,
+          "views": 186344,
+          "likes": 3854,
+          "comments": 166
+        },
+        "recommendation": "suitable as supplementary learning",
+        "url": "https://www.youtube.com/watch?v=dIb-DujRNEo",
+        "description": "Code link: https://github.com/krishnaik06/Agentic-LanggraphCrash-course\nLangGraph is built for developers who want to build powerful, adaptable AI agents. Developers choose LangGraph for:\n\nReliability and controllability. Steer agent actions with moderation checks and human-in-the-loop approvals. LangGraph persists context for long-running workflows, keeping your agents on course.\nLow-level and extensible. Build custom agents with fully descriptive, low-level primitives free from rigid abstractions that limit customization. Design scalable multi-agent systems, with each agent serving a specific role tailored to your use case.\nFirst-class streaming support. With token-by-token streaming and streaming of intermediate steps, LangGraph gives users clear visibility into agent reasoning and actions as they unfold in real time.\nLearn LangGraph basics\u00b6\nTo get acquainted with LangGraph's key concepts and features, complete the following LangGraph basics tutorials series:\n\nBuild a basic chatbot\nAdd tools\nAdd memory\nAdd human-in-the-loop controls\nCustomize state\nTime travel\n\nTimestamp:\n\n00:00:00 Introduction And Agenda\n00:03:37 Langgraph Projects Structure\n00:11:15 Building Blocks Of LAnggraph\n00:23:47 Building a Basic Chatbot\n00:49:05 Building Chatbot With Tools\n01:18:37 ReACT Agent Architecture\n01:26:22 Adding Memory In Langgraph\n01:35:00 Streaming In Langgraph\n01:44:58 Human Feedback In the loop\n01:52:42 MCP Server Scratch Implementation"
+      },
+      {
+        "title": "What is Agentic AI? An Easy Explanation For Everyone",
+        "channel": "Bernard Marr",
+        "authority": {
+          "score": 0.35,
+          "views": 200052,
+          "likes": 2455,
+          "comments": 58
+        },
+        "recommendation": "suitable as supplementary learning",
+        "url": "https://www.youtube.com/watch?v=-pqzyvRp3Tc",
+        "description": "\ud83e\udde0 Dive into the world of Agentic AI, where AI systems act autonomously to achieve goals without human guidance. From personal assistants to autonomous vehicles, agentic AI is redefining sectors with its ability to learn, adapt, and operate independently. However, this new frontier raises ethical questions about accountability and transparency. Learn more about its growing impact!\n\n#AgenticAI #AutonomousAI #AIInnovation #TechEthics #FutureOfAI"
+      }
+    ]
+  },
+  {
+    "task": "Basic AI Techniques",
+    "focus": "Machine learning, neural networks",
+    "week": 1,
+    "day": 3,
+    "videos": [
+      {
+        "title": "AI Complete OneShot Course for Beginners | Learn AI & ML Fundamentals from Scratch",
+        "channel": "Apna College",
+        "authority": {
+          "score": 1.0,
+          "views": 1832636,
+          "likes": 52529,
+          "comments": 1720
+        },
+        "recommendation": "recommended as core curriculum material",
+        "url": "https://www.youtube.com/watch?v=D1eL1EnxXXQ",
+        "description": "\ud83d\udcccNew | Complete AI/ML Job Ready Batch  :https://www.apnacollege.in/course/prime-ai\n\nBatch starting from 15th Nov 2025\n--------------------------------------------------------------------------\n\nLink for International students : https://rzp.io/rzp/prime-ai\n\nEligibility for Prime (AI/ML batch) :\n- B.Tech students preparing for Tech Placement/Internships. \n- working professionals switching to AI roles\n- M.Tech/MCA/BCA who are preparing for Tech Placements/Internships\n\nClass Schedule : \n- Mentioned in video & on website. \n- Lectures will come on weekends\n- Lecture duration : upto 2.5 - 3 Hours\n- Some weekends will have additional mentorship sessions.\n- It will take us 4+ months for completion\n- Additional projects will be provided in 5th month for more practice.\n\n\n\nShare your progress on Twitter : https://x.com/ShradhaKhapra_\nDSA Series full playlist : https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt\n\nShradha Khapra Ma'am community \nInstagram : https://www.instagram.com/shradhakhapra\nLinkedIn : https://www.linkedin.com/in/shradha-khapra/"
+      },
+      {
+        "title": "Lecture 1 | AI Free Basic Course",
+        "channel": "Irfan Malik",
+        "authority": {
+          "score": 0.85,
+          "views": 896023,
+          "likes": 22662,
+          "comments": 2022
+        },
+        "recommendation": "recommended as core curriculum material",
+        "url": "https://www.youtube.com/watch?v=3tDE4hDaYgw",
+        "description": "The AI course is entirely free.\nLive classes are held every Tuesday and Wednesday on Facebook and YouTube from 7:30 to 9:30 p.m.\nRecorded lectures will be uploaded to the YouTube channel.\n\n\ud83d\udc49 For free online courses, Visit Irfan Malik's channel: http://youtube.com/@muhammadirfanmalik\n\nMuch more:\n\nFacebook: https://www.facebook.com/iamirfansaeedmalik/\nFacebook Groups\nFreelancing Group: https://www.facebook.com/groups/2763770613931485/\nAI Group: https://www.facebook.com/groups/1721947284991964/\nInstagram: https://www.instagram.com/iamirfanmalikofficial/\nLinkedIn: https://www.linkedin.com/in/muhammadirfanmalik/\nTwitter: https://twitter.com/irfan_malikx\nTiktok: http://www.tiktok.com/@irfansaeedmalikofficial\n\n#irfanmalik #xevensolutions #xevenai #xevenskills #muhammadirfan #hopetoskills #freecourses #chatgpt #chatgpt3 #freeonlinecourses #technology #ai #artificialintelligence"
+      },
+      {
+        "title": "20 AI Concepts Explained in 40 Minutes",
+        "channel": "Gaurav Sen",
+        "authority": {
+          "score": 0.75,
+          "views": 400666,
+          "likes": 10731,
+          "comments": 358
+        },
+        "recommendation": "recommended as core curriculum material",
+        "url": "https://www.youtube.com/watch?v=OYvlznJ4IZQ",
+        "description": "Engineers need to communicate effectively when building AI Systems. \n\nThese terms will help you use a shared vocabulary. This is useful when discussing concepts, reading papers, or collaborating with teammates.\n\nListed in order.\n00:00 Agenda\n00:28 1. Large Language Model\n01:28 2. Tokenization\n02:53 3. Vectorization\n04:15 4. Attention\n07:22 5. Self-Supervised Learning\n12:07 6. Transformer\n14:32 7. Fine-tuning\n17:05 8. Few-shot Prompting\n18:11 9. Retrieval Augmented Generation\n20:33 10. Vector Database\n23:03 11. Model Context Protocol\n25:43 12. Context Engineering\n28:17 13. Agents\n29:19 14. Reinforcement Learning\n34:42 15. Chain of Thought\n35:55 16. Reasoning Models\n36:36 17. Multi-modal Models\n38:21 18. Small Language Models\n40:24 19. Distillation\n41:47 20. Quantization\n\nIf you are a software engineer looking to transition to AI, click the link below.\nAI Engineering Course: https://interviewready.io/course-page/ai-engineering\n\n#AI #SoftwareEngineering #Agents"
+      },
+      {
+        "title": "AI Basics for Beginners",
+        "channel": "codebasics",
+        "authority": {
+          "score": 0.54,
+          "views": 671453,
+          "likes": 10879,
+          "comments": 429
+        },
+        "recommendation": "recommended as primary supporting material",
+        "url": "https://www.youtube.com/watch?v=VGFpV3Qj4as",
+        "description": "Essential concepts that you need to know in AI. If you are just starting out with AI then you need to understand the following fundamental concepts that are covered in this video,\n\n\u2b50\ufe0f Timestamps \u2b50\ufe0f\n0:00 - 0:15: Introduction\n0:16  - 3:01: AI Family Tree\n3:02 - 15:54 : Machine Learning\n15:55 - 34:17: Deep Learning\n34:18 - 36:49 : Generative AI\n36:50 - 39:20 : Traditional AI vs Gen AI\n39:21 - 44:05 : Large Language Models (LLMs)\n44:06 - 56:01 : AI Agents and Agentic Ai\n56:02 - end : AI Agent vs Agentic Ai vs Generative AI\n\nDo you want to learn technology from me? Check https://codebasics.io/?utm_source=description&utm_medium=yt&utm_campaign=description&utm_id=description for my affordable video courses.\n\nNeed help building software or data analytics/AI solutions? My company https://www.atliq.com/ can help. Click on the Contact button on that website.\n\n\ud83c\udfa5 Codebasics Hindi channel: https://www.youtube.com/channel/UCTmFBhuhMibVoSfYom1uXEg\n\n#\ufe0f\u20e3 Social Media #\ufe0f\u20e3\n\n\ud83e\uddd1\u200d\ud83e\udd1d\u200d\ud83e\uddd1 Discord for Community Support:  https://discord.gg/r42Kbuk\n\ud83d\udcf8 Codebasics' Instagram: https://www.instagram.com/codebasicshub/\n\ud83d\udcdd Codebasics' Linkedin :  https://www.linkedin.com/company/codebasics/\n\n------\n\n\ud83d\udcdd Dhaval's Linkedin : https://www.linkedin.com/in/dhavalsays/\n\ud83d\udcdd Hem's Linkedin: https://www.linkedin.com/in/hemvad/\n\n\ud83d\udcfd\ufe0f Hem's Instagram for daily tips: https://www.instagram.com/hemvadivel/\n\ud83d\udcf8 Dhaval's Personal Instagram: https://www.instagram.com/dhavalsays/\n\n\ud83d\udd17 Patreon: https://www.patreon.com/codebasics?fan_landing=true"
+      },
+      {
+        "title": "Generative AI Full Course 2026 [FREE] | Gen AI Tutorial For Beginners | Gen AI Course | Simplilearn",
+        "channel": "Simplilearn",
+        "authority": {
+          "score": 0.48,
+          "views": 75041,
+          "likes": 1899,
+          "comments": 43
+        },
+        "recommendation": "recommended as primary supporting material",
+        "url": "https://www.youtube.com/watch?v=mnkiYN6qikw",
+        "description": "This Generative AI Full Course 2026 by Simplilearn provides a complete learning path from foundational concepts to advanced AI applications. The course begins with an introduction to Generative AI, career opportunities, and the roadmap to becoming a Generative AI engineer, followed by key differences between AI agents and agentic systems. You will then learn practical development using frameworks like LangChain, including how to build LLM applications and chatbots, run models locally, and understand benchmarking concepts. The course also covers prompting techniques using tools like Google Gemini and structured prompt engineering methods. Advanced sections explore AI for data analysis, GAN concepts, automation tools such as Zapier and n8n, and how to create self-learning AI agents and no-code workflows. You will also learn strategies to speed up AI development and coding productivity using modern tools. Finally, the course includes real-world projects and interview questions to help you prepare for Generative AI roles in 2026.\n\nFollowing are the topics covered in this tutorial on Generative AI Full Course 202:\n00:00:00 - Introduction to Generative AI Full Course 2026\n00:03:49 - What Is GenAI?\n00:08:09 - How To Become Generative AI Engineer?\n00:18:14 - Generative AI Vs Agentic AI Vs AI Agents\n00:30:57 - Gen AI Engineer Roadmap For 2026\n00:35:47 - Generative AI For Beginners \n01:47:45 - LangChain Tutorial for Beginners \n02:30:02 - LangGraph vs LangChain vs LangFlow vs LangSmith 2026\n02:39:35 - How To Run LLM Models Locally \n02:46:50 - LLM As Operating System\n03:39:40 - LLM Benchmarking \n03:46:14 - Build LLM Apps Using Langchain\n05:13:29 - Build a Chatbot Using Langchain\n06:19:27 - LLM Prompting With Gemini \n07:03:53 - Prompt Engineering Tutorial\n16:08:41 - Generative AI For Data Analysis\n16:20:09 - Future Of Generative AI \n16:29:53 - Generative Adversarial Tutorial\n16:29:53 - Zapier AI Tutorial For Beginners \n16:39:12 - How To Build AI Automations Using n8n\n17:09:24 - How To Build a Self Learning AI Agent \n17:39:15 - Build and Automate AI Agents Using n8n\n19:02:49 - Introduction To Agentic Workflow\n20:33:02 - How to Build No Code AI Workflows\n21:09:14 - Top Hacks To Speed Up Your AI Coding Workflow\n22:52:18 - Top 30 Generative AI Interview Questions 2026\n23:18:21 - Top 10 Generative AI Projects For 2026\n\nRelated Videos:\n\u2705 1. https://youtu.be/0Ttdgz9aL6g\n\u2705 2. https://youtu.be/eBU7yvXJkLc\n\u2705 3. https://youtu.be/H3Jn4jUdhyw\n\u2705 4. https://youtu.be/MKMlt4tckmA\n\u2705 5. https://youtu.be/4dBWH8FmP4E\n\n\u2705Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n\u23e9 Check out More AI Videos By Simplilearn: https://youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq   \n\n#generativeai #generativeaiforbeginners #generativeaiforbeginners #generativeaiproject #generativeairoadmap #generativeaitutorial #genairoadmap # #generativeaifullcourse #genaifullcourse #genaifullcourseforbeginners #genaiengineerinterviewquestions #2026 #simplilearn #genai #genaifullcourse #genairoadmap #generativemodels \n\n\ud83d\udd25Michigan Engineering - Professional Certificate in AI and Machine Learning - https://www.simplilearn.com/professional-aiml-program?utm_campaign=mnkiYN6qikw&utm_medium=Description&utm_source=Youtube \n\ud83d\udd25Advanced Executive Program In Applied Generative AI - https://www.simplilearn.com/applied-generative-ai-course?utm_campaign=mnkiYN6qikw&utm_medium=Description&utm_source=Youtube"
+      }
+    ]
+  },
+  {
+    "task": "Ethics in AI",
+    "focus": "Ethical considerations and biases",
+    "week": 1,
+    "day": 4,
+    "videos": [
+      {
+        "title": "The Ethics of AI & Machine Learning [Full Course]",
+        "channel": "freeCodeCamp.org",
+        "authority": {
+          "score": 0.77,
+          "views": 50549,
+          "likes": 1432,
+          "comments": 96
+        },
+        "recommendation": "recommended as core curriculum material",
+        "url": "https://www.youtube.com/watch?v=qpp1G0iEL_c",
+        "description": "Should AI systems have personhood? Is AI biased? Go from 0 to 1 in AI ethics in 90 minutes!\n\nIn this video, you will learn about the foundations of AI, its applications, and the ethical considerations that shape this transformative field. \n\n\u270f\ufe0f Course created by Seth Goldin - https://twitter.com/seth_goldin\n\n\u2764\ufe0f Try interactive AI courses we love, right in your browser: https://scrimba.com/freeCodeCamp-AI (Made possible by a grant from our friends at Scrimba)\n\n\u2b50\ufe0f Course Contents \u2b50\ufe0f\n\u2728 (00:00) Opening Remarks\n\ud83d\udcdd (02:08) Intro to AI Ethics\n\ud83e\udd16 (10:52) Basics of AI/ML\n\ud83e\udde0 (18:37) Neural Networks\n\ud83d\udc36 (25:56) Datasets\n\u2b1b (28:54) Limitations of AI & Black Boxes\n\u2696\ufe0f (38:48) Intro to Ethics\n\ud83d\udcad (45:38) Thought Experiments\n\u2623\ufe0f (52:06) The Singularity and AI Risk\n\ud83e\udec0 (01:02:16) AI in Healthcare\n\u270f\ufe0f (01:08:45) AI in Education\n\ud83d\udcc8 (01:13:29) AI in Finance\n\ud83e\udec2 (01:18:37) AI in Employment\n\ud83c\udf0f (01:27:00) AI and Policy\n\ud83c\udf31 (01:37:49) Future of Ethical AI\n\nThis course also showcases segments from guest speakers Sneha Revanur (https://twitter.com/sneharevanur) from Encode Justice, Okezue Bell (https://twitter.com/okezuebell) from Fidutam, and Emilia Javorsky (https://futureoflife.org/person/emilia-javorsky-md-mph/) from the Future of Life Institute. \n\nMostly unaffiliated links to dive deeper into topics discussed in this course:\n\n\ud83d\udd17Deep Reinforcement Learning Visualized: https://www.youtube.com/watch?v=2tamH76Tjvw\n\ud83d\udd17Deep Learning Crash Course: https://www.youtube.com/watch?v=VyWAvY2CF9c\n\ud83d\udd17The Rise of the Machines - Why Automation is Different this Time: https://youtube.com/watch?v=WSKi8HfcxEk \n\ud83d\udd17Do Robots Deserve Rights? What if Machines Become Conscious?: https://www.youtube.com/watch?v=DHyUYg8X31c \n\ud83d\udd17\u200b\u200bThe big debate about the future of work, explained: https://www.youtube.com/watch?v=TUmyygCMMGA \n\ud83d\udd17A Collection of Lectures on the Ethical implications of Data and Artificial Intelligence from Different Perspectives: https://aiethicscourse.org/ \n\ud83d\udd17Predictive Policing: https://www.youtube.com/watch?v=A-PrLbawdgg\n\ud83d\udd17Elections and Disinformation: https://www.goodreads.com/en/book/show/28186015\n\ud83d\udd17AI Safety \u2013 Full Course on Machine Learning & Ethics (Center for AI Safety): https://www.youtube.com/watch?v=agEPmYdbQLs\n\ud83d\udd17How AI Could Save (Not Destroy) Education | Sal Khan: https://www.youtube.com/watch?v=hJP5GqnTrNo \n\ud83d\udd17ProPublica Study on Recidivism: https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm\n\ud83d\udd17Course on AI Safety: https://aisafetyfundamentals.com/ \n\nYouTube videos with brief clips utilized in this course:  \n\n\ud83d\udcfcThe Trolley Problem | The Good Place: https://www.youtube.com/watch?v=DtRhrfhP5b4 \n\ud83d\udcfcAlphaFold: The making of a scientific breakthrough: https://www.youtube.com/watch?v=gg7WjuFs8F4 \n\ud83d\udcfcStock Market Crash - Flash Crash May 6, 2010: https://www.youtube.com/watch?v=E1xqSZy9_4I \n\ud83d\udcfcTaylor Swift \u2013 Starboy (AI) and Barack Obama Deepfake supplied by Encode Justice\n\n\n\ud83c\udf89 Thanks to our Champion and Sponsor supporters:\n\ud83d\udc7e davthecoder\n\ud83d\udc7e jedi-or-sith\n\ud83d\udc7e \u5357\u5bae\u5343\u5f71\n\ud83d\udc7e Agust\u00edn Kussrow\n\ud83d\udc7e Nattira Maneerat\n\ud83d\udc7e Heather Wcislo\n\ud83d\udc7e Serhiy Kalinets\n\ud83d\udc7e Justin Hual\n\ud83d\udc7e Otis Morgan \n\ud83d\udc7e Oscar Rahnama\n\n--\n\nLearn to code for free and get a developer job: https://www.freecodecamp.org\n\nRead hundreds of articles on programming: https://freecodecamp.org/news"
+      },
+      {
+        "title": "AI Ethics | Ethics Defined",
+        "channel": "McCombs School of Business",
+        "authority": {
+          "score": 0.58,
+          "views": 43131,
+          "likes": 333,
+          "comments": 20
+        },
+        "recommendation": "recommended as primary supporting material",
+        "url": "https://www.youtube.com/watch?v=6yDr7CWLJ8c",
+        "description": "AI ethics focuses on ensuring that AI is developed and deployed responsibly, promoting fairness, transparency, accountability, and societal well-being while minimizing harm.\n\nThis video is part of Ethics Defined, an animated library of more than 50 ethics terms and concepts from Ethics Unwrapped, available at https://ethicsunwrapped.utexas.edu/glossary\nFor free videos and teaching resources on ethics and leadership, visit http://ethicsunwrapped.utexas.edu\n\nEthics Unwrapped is a free online educational program produced by the Center for Leadership and Ethics at The University of Texas at Austin. It offers an innovative approach to introducing complex ethics topics that is accessible to both students and instructors. For more videos, case studies, and teaching materials, visit http://ethicsunwrapped.utexas.edu/ \n\nA complete playlist of Ethics Unwrapped videos available on YouTube may be found at: https://youtube.com/playlist?list=PL32TobLoKLYrTk4TB4w-kuOf_dEEmAvOg&feature=shared\n\n\u00a9 2024 The University of Texas at Austin. All Rights Reserved."
+      },
+      {
+        "title": "AI Ethics and Values Tutorial | AI Explainability | Class 12 CBSE ICSE | Amit Thinks |2026",
+        "channel": "Amit Thinks",
+        "authority": {
+          "score": 0.4,
+          "views": 490,
+          "likes": 18,
+          "comments": 11
+        },
+        "recommendation": "recommended as primary supporting material",
+        "url": "https://www.youtube.com/watch?v=A_QG2L6GS4Q",
+        "description": "Amit Diwan teaches AI Ethics and Governance in this video from scratch. This course introduces the foundations of AI ethics and why ethical thinking matters in a rapidly evolving technological world.\n\nThe following lessons are covered in the AI Ethics course:\n00:00:00 About Course\n00:01:03 Foundations: What are AI Ethics? Why AI Needs Ethics?\n00:08:47 The AI Ethics Core Principles\n00:19:10 When AI is Unfair: Understanding Bias\n00:29:01 Transparency, Explainability, and Trust: Challenges in Deploying AI\n00:37:13 AI and Your Job: The Future of Work\n00:43:54 AI in the Real World: High-Stakes Case Studies\n00:52:14 AI, Society, and You: Truth, Democracy, and Rights\n00:58:33 The Cutting Edge: AI That Creates and the Far Future\n01:06:00 Governance, Policy, and Building Ethical AI\n01:12:06 Governance and practical structures to implement ethical AI principles\n01:18:23 Case Study: Amazon\u2019s 2025 AI Ethics Letter from Employees\n01:21:13 Case Study: Uber\u2019s AI-Driven Pay Systems & Legal Action\nAI Agents Tutorial: https://youtu.be/mwRBLeZh6Tw\nAI Agents Study Material: https://studyopedia.com/tutorials/ai-agents/\n\nMCP Tutorial: https://youtu.be/0WH0yRxExA0\nMCP Study Material: https://studyopedia.com/tutorials/model-context-protocol/\n\nLangChain Crash Course: https://youtu.be/kVkcwFMo8gk\nHugging Face Crash Course: https://youtu.be/b665B04CWkI\nGenerative AI Masterclass: https://www.youtube.com/live/y-faY5bR1kg\nOllama Tutorial: https://youtu.be/1yzNmzMPJAs\nLM Studio Tutorial: https://youtu.be/K4aQCr_ll9I\nGoogle AI Studio: https://youtu.be/8trGK3CSCFM\n\n#aiethicstutorial #aigovernance #amitthinks\n------------------------------------------------\n\u2714\ufe0fMy Website - https://studyopedia.com\n\u2714\ufe0fJoin Us at 59/month: https://bit.ly/3WV9sXK\n\u2714\ufe0fData Analytics Tutorial: https://bit.ly/48MxVTU\n\u2714\ufe0fWeb Dev Tutorial: https://bit.ly/3tl9nlp\n\u2714\ufe0fFree Study Material: https://bit.ly/3K7lzbP\n\n\ud83d\udc49  Follow me\nLinkedIn - https://bit.ly/3C1CY4v\nInstagram - https://bit.ly/3z8Fg1d\n--------------------------------------------------\n\u25ba Top Free Video Tutorials\nTableau Tutorial\u2b50\ufe0fhttps://youtu.be/4aTvjpdOMT4\nPower BI Tutorial\u2b50\ufe0fhttps://youtu.be/OITCW7ETz-M\nGenerative AI Course (English)\u2b50\ufe0fhttps://bit.ly/3Vhsbxv\nGenerative AI Course (Hindi) \u2b50\ufe0f https://bit.ly/3V76ZKp\nPython Tutorial (English)\u2b50\ufe0f https://youtu.be/HakXpkXcjdI\nPython Tutorial (Hindi)\u2b50\ufe0f https://youtu.be/b97WsOM9BYg\nPandas Tutorial (English)\u2b50\ufe0fhttps://youtu.be/yFoVs3_wvPo\nPandas Tutorial (Hindi)\u2b50\ufe0fhttps://youtu.be/57POFzZ7f60\nNumPy Tutorial (English)\u2b50\ufe0fhttps://youtu.be/WsENswmSz6M\nNumPy Tutorial (Hindi)\u2b50\ufe0fhttps://youtu.be/roqStVWNR7Q\nMatplotlib Tutorial (English)\u2b50\ufe0fhttps://youtu.be/DFBkTIhptOQ\nMatplotlib Tutorial (Hindi)\u2b50\ufe0fhttps://youtu.be/vBCXsAd_swk\nGoogle Colab Tutorial \u2b50\ufe0fhttps://youtu.be/iMlMfrXJYSg\nAnaconda Tutorial \u2b50\ufe0f https://youtu.be/ovlID7gefzE\nPyCharm Tutorial \u2b50\ufe0fhttps://youtu.be/nixcq6mEGWQ\nSQL Tutorial \u2b50\ufe0fhttps://youtu.be/7dcYlJcGhqk\nMySQL Tutorial\u2b50\ufe0fhttps://youtu.be/sgpDAiF-18o\nMySQL Workbench Tutorial: https://youtu.be/UzodkZUt5JY\nHTML Tutorial \u2b50\ufe0fhttps://bit.ly/3VHaUvq\njQuery Tutorial (English)\u2b50\ufe0fhttps://youtu.be/5BTWmXFOKlc\njQuery Tutorial (Hindi)\u2b50\ufe0fhttps://youtu.be/bvmAsDvQ1NM\nBootstrap Tutorial\u2b50\ufe0fhttps://youtu.be/nahewStckVU \n\n\u25ba  Programming - Free Study Material (Downloadable)\nMachine Learning\u2b50\ufe0f https://studyopedia.com/tutorials/machine-learning\nDeep Learning\u2b50\ufe0fhttps://studyopedia.com/tutorials/deep-learning\nTableau \u2b50\ufe0fhttps://studyopedia.com/tutorials/tableau\nPower BI \u2b50\ufe0fhttps://studyopedia.com/tutorials/power-bi\nPython \u2b50\ufe0fhttps://studyopedia.com/tutorials/python3\nNumpy \u2b50\ufe0fhttps://studyopedia.com/tutorials/numpy\nPandas \u2b50\ufe0fhttps://studyopedia.com/tutorials/pandas\nMatplotlib \u2b50\ufe0fhttps://studyopedia.com/tutorials/matplotlib\nJava \u2b50\ufe0fhttps://studyopedia.com/tutorials/java\nC \u2b50\ufe0fhttps://studyopedia.com/tutorials/c-programming\nC++ \u2b50\ufe0fhttps://studyopedia.com/tutorials/cpp/\nC# \u2b50\ufe0fhttps://studyopedia.com/tutorials/csharp/\nAndroid \u2b50\ufe0fhttps://studyopedia.com/tutorials/android\nR \u2b50\ufe0fhttps://studyopedia.com/tutorials/r-tutorial\n\n\u25ba  Web Dev - Free Study Material (Downloadable)\nBootstrap\u2b50\ufe0fhttps://studyopedia.com/tutorials/bootstrap/\nHTML5 \u2b50\ufe0fhttps://studyopedia.com/tutorials/html5\nJavaScript\u2b50\ufe0fhttps://studyopedia.com/tutorials/javascript/\njQuery\u2b50\ufe0fhttps://studyopedia.com/tutorials/jquery/\n\n\u25ba  Database  - Free Study Material (Downloadable)\nSQL \u2b50\ufe0fhttps://studyopedia.com/tutorials/sql\nMySQL \u2b50\ufe0fhttps://studyopedia.com/tutorials/mysql\nMongoDB\u2b50\ufe0fhttps://studyopedia.com/tutorials/mongodb\n\n\ud83d\udc49 About Amit Thinks YouTube Channel\nI am Amit Diwan, a self-made Entrepreneur, running \"Amit Thinks\", a Tech YouTube Channel. Also running an E-Learning website \"studyopedia.com\".  We publish videos in English and Hindi on Programming, Databases, and Web Dev Technologies. I have left a job offer from Accenture and 3 government jobs to follow my dream of being an entrepreneur.\n\nJoin this channel to get access to the perks:\nhttps://www.youtube.com/channel/UCgnr2Lkl1LZf0IOKRDAoJ2g/join\n\n\u25ba  Subscribe\nhttps://www.youtube.com/@Amit.Thinks/"
+      },
+      {
+        "title": "Free Short Course - AI: Ethics, Risk, and Compliance - Module 1",
+        "channel": "ITMastersCSU",
+        "authority": {
+          "score": 0.32,
+          "views": 1847,
+          "likes": 48,
+          "comments": 1
+        },
+        "recommendation": "suitable as supplementary learning",
+        "url": "https://www.youtube.com/watch?v=fnkdUKC47_g",
+        "description": "AI: Ethics, Risk and Compliance is a free short course designed to introduce participants to some of the most pressing issues in the deployment of AI today \u2013 managing your organisation\u2019s risks in using AI, complying with the Australian framework for regulation of AI and maintaining an ethical approach to your AI use. Whether you are a business manager looking to deploy AI in your organisation or an IT professional tasked with managing your deployment of AI, this course will give you clear direction and pathways to success.\n\nYou will gain a clear understanding of Australian regulation guardrails, including ISO/IEC 42001:2023, get to see how a good AI management system works and guidelines in embedding AI responsibly into your organisation and culture.\n\nThis course will help you feel more comfortable in the practical use of AI in your workplace \u2013 maintaining integrity and deploying within the rules and regulations here and likely to evolve in the future.\n\nAI: Ethics, Risk and Compliance will be presented by IT Masters cyber security mentor and expert Dr Georg Thomas, who is currently working with a number of organisations on their policy responses and plans for AI deployment.\n\n\ud83d\udcc5 Want to test your skills and earn a certificate of completion?\n\ud83d\udd17 Register for free: https://itmasters.edu.au/short-courses/ai-ethics-risk-and-compliance/"
+      },
+      {
+        "title": "Webinar: Ethics and integrity for AI in research (AI in Science) - Sep 10, 2024",
+        "channel": "Scientific Advice Mechanism ",
+        "authority": {
+          "score": 0.18,
+          "views": 1469,
+          "likes": 19,
+          "comments": 0
+        },
+        "recommendation": "optional reference material",
+        "url": "https://www.youtube.com/watch?v=oc6FMEyqwLs",
+        "description": "This webinar draws on the recent advice adopted by the Group of Chief Scientific Advisors (GCSA) of the Scientific Advice Mechanism (SAM) at the request of Margrethe Vestager (Executive Vice-President for A Europe Fit for the Digital Age) and Iliana Ivanova (Commissioner for Innovation, Research, Culture, Education and Youth). The resulting two reports focus on the question \u2018How can the European Commission accelerate a responsible uptake of Artificial Intelligence in science (including providing access to high-quality Al while respecting and promoting European research values) in order to boost innovation and prosperity, strengthen the EU's position in science, and ultimately contribute to solving Europe's societal challenges?\u2019.\n\nIn the framework of this general question, this webinar asks: How can we promote the ethical use of AI? How might AI be employed to advance fundamental values and commitments in science-related research and communication? And how can research practices in this new digital environment be assessed? The European Code of Conduct for Research Integrity (2023) provides a general framework for good research practices across all research types and disciplines. This revised edition also addresses new challenges for research integrity posed by AI. This webinar will bring together leading European experts to examine the promises and challenges of AI for research and communication. Together we will look for new pathways forward to advance an ethical and innovative future for research and education in Europe."
+      }
+    ]
+  },
+  {
+    "task": "Applications of Agentic AI",
+    "focus": "Use cases in different industries",
+    "week": 1,
+    "day": 5,
+    "videos": [
+      {
+        "title": "Agentic AI using LangGraph | New Playlist | LangGraph Tutorial",
+        "channel": "CampusX",
+        "authority": {
+          "score": 0.85,
+          "views": 248437,
+          "likes": 6107,
+          "comments": 558
+        },
+        "recommendation": "recommended as core curriculum material",
+        "url": "https://www.youtube.com/watch?v=yC36gN-rqjo",
+        "description": "This playlist is your hands-on guide to building agentic AI systems using LangGraph\u2014a powerful framework for managing multi-step, multi-agent workflows.\n\nYou\u2019ll learn how to:\n\nUnderstand the core ideas behind agentic workflows\nUse LangGraph to define stateful agents and tasks\nCoordinate multiple tools, APIs, and LLM calls\nHandle memory, branching, and real-time decision logic\nBuild real applications like assistants, planners, and autonomous agents.\n\nJust clear explanations, code demos, and practical projects.\n\n\u231aTime Stamps\u231a\n\n00:00 - Intro\n01:30 - Why this Playlist?\n04:22 - Vision behind this Playlist\n07:13 - Curriculum [Tentative]\n13:05 - Prerequisites\n14:50 - FAQs"
+      },
+      {
+        "title": "What is Agentic AI and How Does it Work?",
+        "channel": "codebasics",
+        "authority": {
+          "score": 0.74,
+          "views": 576220,
+          "likes": 7865,
+          "comments": 313
+        },
+        "recommendation": "recommended as core curriculum material",
+        "url": "https://www.youtube.com/watch?v=15_pppse4fY",
+        "description": "What exactly is Agentic AI? In this video, we will go through an extremely simple explanation of Agentic AI. We will compare Agentic AI systems with Workflows that use LLMs but are not agentic in nature.\n\n00:00 Introduction\n00:13 RAG Based AI System\n01:06 Tool Augmented AI System\n02:08 Agentic AI System\n08:02 Agentic AI Apps with Code\n09:31 Low Code Agentic AI \n11:16 AI Agent vs Agentic AI\n11:42 Gen AI vs Agentic AI\n\nAnthropic agent guide: https://www.anthropic.com/engineering/building-effective-agents\nRAG and tool ammended AI system project 1: https://youtu.be/CO4E_9V6li0?si=4BhXW9c6HnPC2uww\nRAG and tool ammended AI system project 2: https://youtu.be/jLM6n4mdRuA?si=oKer2d5eyixiTgF5\nAgno reasoning agent: https://docs.agno.com/reasoning/reasoning-agents#reasoning-with-tools\n\n\ud83d\udc49 Check out PyCharm, the IDE built for data science and AI/ML professionals: https://jb.gg/try-pycharm-now\n\ud83d\udc49 Free 3-Month PyCharm Pro subscription with coupon code \u201cPyCharm2codebasics\u201d: https://jb.gg/pc_codebasics\nRedeem on new purchases before Feb 01, 2026\n\nDo you want to learn technology from me? Check https://codebasics.io/?utm_source=description&utm_medium=yt&utm_campaign=description&utm_id=description for my affordable video courses.\n\nNeed help building software or data analytics/AI solutions? My company https://www.atliq.com/ can help. Click on the Contact button on that website.\n\n\ud83c\udfa5 Codebasics Hindi channel: https://www.youtube.com/channel/UCTmFBhuhMibVoSfYom1uXEg\n\n#\ufe0f\u20e3 Social Media #\ufe0f\u20e3\n\n\ud83e\uddd1\u200d\ud83e\udd1d\u200d\ud83e\uddd1 Discord for Community Support:  https://discord.gg/r42Kbuk\n\ud83d\udcf8 Codebasics' Instagram: https://www.instagram.com/codebasicshub/\n\ud83d\udcdd Codebasics' Linkedin :  https://www.linkedin.com/company/codebasics/\n\n------\n\n\ud83d\udcdd Dhaval's Linkedin : https://www.linkedin.com/in/dhavalsays/\n\ud83d\udcdd Hem's Linkedin: https://www.linkedin.com/in/hemvad/\n\n\ud83d\udcfd\ufe0f Hem's Instagram for daily tips: https://www.instagram.com/hemvadivel/\n\ud83d\udcf8 Dhaval's Personal Instagram: https://www.instagram.com/dhavalsays/\n\n\ud83d\udd17 Patreon: https://www.patreon.com/codebasics?fan_landing=true"
+      },
+      {
+        "title": "Full Course (Lessons 1-10) AI Agents for Beginners",
+        "channel": "Microsoft Developer",
+        "authority": {
+          "score": 0.69,
+          "views": 400733,
+          "likes": 5447,
+          "comments": 58
+        },
+        "recommendation": "recommended as core curriculum material",
+        "url": "https://www.youtube.com/watch?v=OhI005_aJkA",
+        "description": "Find the full \"AI Agents for Beginners\" Course and code samples here \u27a1\ufe0f aka.ms/ai-agents-beginners\n\nIn this lesson:\n00:00 Introduction\n00:00 Lesson 1 What are AI agents?\n5:55 Lesson 2 Which agent framework to use\n14:14 Lesson 3 How to design good AI agents\n19:35 Lesson 4 What is the Agent Tool Use Design Pattern?\n25:47 Lesson 5 What is agentic RAG?\n33:03 Lesson 6 How to build effective AI agents\n38:54 Lesson 7: What is the AI Agent Planning Design Pattern?\n44:20 Lesson 8 How to use a multi-AI agent system\n51:22 Lesson 9 How can AI agents improve?\n58:32 Lesson 10 How to deploy AI agents into production"
+      },
+      {
+        "title": "Learn to build effective Agentic AI systems with Andrew Ng",
+        "channel": "DeepLearningAI",
+        "authority": {
+          "score": 0.6,
+          "views": 923575,
+          "likes": 2753,
+          "comments": 56
+        },
+        "recommendation": "recommended as core curriculum material",
+        "url": "https://www.youtube.com/watch?v=w7vqXL4PWEE",
+        "description": "Learn more: https://bit.ly/4mVUPyF\n\nBuilding effective Agentic AI systems is one of the most valuable skills in AI today.\n\nIntroducing Agentic AI, a new course from Andrew Ng, now available on DeepLearning.AI.\n\nWhile most developers build AI that just responds to prompts, the most productive teams are building AI that executes multi-step workflows autonomously.\u00a0\n\nIn this course, you'll learn how to build 4 key agentic workflows using raw Python so that you'll see how each step actually works.\n\nSkills you\u2019ll gain:\u00a0\n\n- Build agentic design patterns: reflection, tool use, planning, and multi-agent workflows\n- Integrate AI with external tools: databases, APIs, web search, and code execution\n- Evaluate and optimize AI systems: performance metrics, error analysis, and production deployment\n\nBuild everything from scratch in Python\u2014no frameworks, no black boxes.\n\nAgentic AI is available exclusively on DeepLearning.AI. With a Pro membership you get access to quizzes, code labs, and Professional Certifications along with early access to our available catalog of advanced AI courses.\n\nEnroll in Agentic AI on DeepLearning.AI: https://bit.ly/4mVUPyF"
+      },
+      {
+        "title": "Agentic AI Full Course 2026 | AI Agents Tutorial For Beginners | Agentic AI Course | Edureka",
+        "channel": "edureka!",
+        "authority": {
+          "score": 0.58,
+          "views": 73902,
+          "likes": 1343,
+          "comments": 16
+        },
+        "recommendation": "recommended as primary supporting material",
+        "url": "https://www.youtube.com/watch?v=-rUKr8JDits",
+        "description": "\ud83d\udd25Agentic AI Training Course - Master AI Agents: https://www.edureka.co/agentic-ai-training-course\n\ud83d\udd25Integrated MS+PGP Program in Data Science & AI:https://www.edureka.co/dual-certification-programs/ms-data-science-pgp-gen-ai-ml-birchwood\n\nExplore the future of artificial intelligence with Agentic AI! In this video, we dive into the exciting developments and advancements that are set to shape the industry in 2026. We will learn what Agentic AI is and how it goes beyond traditional AI by acting with purpose and autonomy. You\u2019ll discover 5 powerful secrets behind Agentic AI\u2014from multi-agent collaboration to real-world tool integration and ethical guardrails. By the end, you\u2019ll understand how Agentic AI is transforming industries and why it\u2019s the future of intelligent systems.\n \nJoin us as we discuss the latest trends, innovations, and predictions for Agentic AI in 2026. Whether you're an AI enthusiast, a business leader, or simply curious about the future of technology, this video is for you. Stay ahead of the curve and discover what's next for Agentic AI!\n\n00:00:00 Introduction \n00:17:13 What is Agentic AI?\n00:36:19 Agentic AI vs Generative AI\n00:46:07 Agentic AI Roadmap\n00:52:18 Introduction to Artificial Intelligence\n00:58:37 Introduction to Deep Learning\n02:28:29 Artificial Neural Network\n03:08:09 Transformers Explained Using Generative AI\n03:09:37 Transformers Neural Networks Explained\n03:21:52 What are Large Language Models?\n03:38:17 LLM vs SLM\n03:41:59 What is LangChain?\n03:59:35 What is RAG?\n04:22:07 LLMOps: The Future of AI Development\n04:29:57 Prompt Engineering \n04:42:41 Natural Language Processing (NLP) & Text Mining using NLTK\n05:22:21 KNN Algorithm using Python\n05:45:23 Alibaba\u2019s Qwen 2.5-Max Just Beat GPT-4 & DeepSeek?\n05:49:47 DeepSeek vs OpenAI: Who Wins the AI Race?\n06:02:06 Deep Learning Interview Questions\n\n\u2705Subscribe to our channel to get video updates. Hit the subscribe button above: https://goo.gl/6ohpTV\n\n\ud83d\udcddFeel free to share your comments below.\ud83d\udcdd\n\n\ud835\udc04\ud835\udc1d\ud835\udc2e\ud835\udc2b\ud835\udc1e\ud835\udc24\ud835\udc1a \ud835\udc0e\ud835\udc27\ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc1e \ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc22\ud835\udc27\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc02\ud835\udc1e\ud835\udc2b\ud835\udc2d\ud835\udc22\ud835\udc1f\ud835\udc22\ud835\udc1c\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27\ud835\udc2c\n\n\ud83d\udd35 DevOps Online Training: http://bit.ly/3VkBRUT \n\ud83c\udf15 AWS Online Training: http://bit.ly/3ADYwDY\n\ud83d\udd35 React Online Training: http://bit.ly/3Vc4yDw\n\ud83c\udf15 Tableau Online Training: http://bit.ly/3guTe6J\n\ud83d\udd35 Power BI Online Training: http://bit.ly/3VntjMY\n\ud83c\udf15 Salesforce Online Training: http://bit.ly/3OsAXDH\n\ud83d\udd35 Cybersecurity Online Training: http://bit.ly/3tXgw8t\n\ud83c\udf15 Java Online Training: http://bit.ly/3tRxghg\n\ud83d\udd35 Big Data Online Training: http://bit.ly/3EvUqP5\n\ud83c\udf15 RPA Online Training: http://bit.ly/3GFHKYB\n\ud83d\udd35 Python Online Training: http://bit.ly/3Oubt8M\n\ud83c\udf15 Azure Online Training: http://bit.ly/3i4P85F\n\n\ud83d\udd34 \ud835\udc04\ud835\udc1d\ud835\udc2e\ud835\udc2b\ud835\udc1e\ud835\udc24\ud835\udc1a \ud835\udc11\ud835\udc28\ud835\udc25\ud835\udc1e-\ud835\udc01\ud835\udc1a\ud835\udc2c\ud835\udc1e\ud835\udc1d \ud835\udc02\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c\ud835\udc1e\ud835\udc2c\n\n\ud83d\udd35 DevOps Engineer Masters Program: http://bit.ly/3Oud9PC\n\ud83c\udf15 Cloud Architect Masters Program: http://bit.ly/3OvueZy\n\ud83d\udd35 Data Scientist Masters Program: http://bit.ly/3tUAOiT\n\ud83c\udf15 Big Data Architect Masters Program: http://bit.ly/3tTWT0V\n\ud83d\udd35 Machine Learning Engineer Masters Program: http://bit.ly/3AEq4c4\n\ud83c\udf15 Business Intelligence Masters Program: http://bit.ly/3UZPqJz\n\ud83d\udd35 Python Developer Masters Program: http://bit.ly/3EV6kDv\n\n\n\ud83d\udd34 \ud835\udc04\ud835\udc1d\ud835\udc2e\ud835\udc2b\ud835\udc1e\ud835\udc24\ud835\udc1a \ud835\udc14\ud835\udc27\ud835\udc22\ud835\udc2f\ud835\udc1e\ud835\udc2b\ud835\udc2c\ud835\udc22\ud835\udc2d\ud835\udc32 \ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc20\ud835\udc2b\ud835\udc1a\ud835\udc26\ud835\udc2c\n\n\ud83d\udd35 Post Graduate Program in DevOps with Purdue University:  https://bit.ly/3Ov52lT\n\n\ud83c\udf15 Advanced Certificate Program in Data Science with E&ICT Academy, IIT Guwahati: http://bit.ly/3V7ffrh\n\n\ud83d\udd35 Advanced Certificate Program in Cloud Computing with E&ICT Academy, IIT Guwahati: https://bit.ly/43vmME8\n\n\ud83d\udccc\ud835\udc13\ud835\udc1e\ud835\udc25\ud835\udc1e\ud835\udc20\ud835\udc2b\ud835\udc1a\ud835\udc26: https://t.me/edurekaupdates\n\ud83d\udccc\ud835\udc13\ud835\udc30\ud835\udc22\ud835\udc2d\ud835\udc2d\ud835\udc1e\ud835\udc2b: https://twitter.com/edurekain\n\ud83d\udccc\ud835\udc0b\ud835\udc22\ud835\udc27\ud835\udc24\ud835\udc1e\ud835\udc1d\ud835\udc08\ud835\udc27: https://www.linkedin.com/company/edureka\n\ud83d\udccc\ud835\udc08\ud835\udc27\ud835\udc2c\ud835\udc2d\ud835\udc1a\ud835\udc20\ud835\udc2b\ud835\udc1a\ud835\udc26: https://www.instagram.com/edureka_learning/\n\ud83d\udccc\ud835\udc05\ud835\udc1a\ud835\udc1c\ud835\udc1e\ud835\udc1b\ud835\udc28\ud835\udc28\ud835\udc24: https://www.facebook.com/edurekaIN/ \n\ud83d\udccc\ud835\udc0c\ud835\udc1e\ud835\udc1e\ud835\udc2d\ud835\udc2e\ud835\udc29: https://www.meetup.com/edureka/\n\ud83d\udccc\ud835\udc02\ud835\udc28\ud835\udc26\ud835\udc26\ud835\udc2e\ud835\udc27\ud835\udc22\ud835\udc2d\ud835\udc32: https://www.edureka.co/community/\n\n- - - - - - - - - - - - - - \n\nWhat is Agentic AI?\nAgentic AI refers to artificial intelligence systems that can autonomously make decisions, take actions, and pursue goals with minimal human intervention. Unlike traditional AI, which adheres to predetermined rules, agentic AI may dynamically adapt to new situations.\n\nWhat are the prerequisites for this Agentic AI Training Course?\nIn order to complete this course successfully, participants need to have a basic understanding of the Python programming language, machine learning, deep learning, natural language processing, generative AI, and prompt engineering concepts. \n\nWho should take this AI Agents Training Course?\nThe Agentic AI online Training Course is ideal for AI enthusiasts, developers, and professionals looking to build autonomous AI agents. It is best suited for LLM Engineers, Generative AI Engineers, AI Research scientists, AI/ML practitioners, and freshers who want to leverage Agentic AI for automation and decision-making.\n\nFor more information, please write back to us at sales@edureka.in or call us at IND: 9606058406 / US: +18885487823(toll-free).\n\n#agenticai #aiagents #agenticaicourse #generativeai"
+      }
+    ]
+  },
+  {
+    "task": "Tools and Frameworks",
+    "focus": "Overview of popular AI tools",
+    "week": 1,
+    "day": 6,
+    "videos": [
+      {
+        "title": "Tools EVERY Software Engineer Should Know",
+        "channel": "Tech With Tim",
+        "authority": {
+          "score": 0.64,
+          "views": 41324,
+          "likes": 1525,
+          "comments": 70
+        },
+        "recommendation": "recommended as core curriculum material",
+        "url": "https://www.youtube.com/watch?v=aAvYXkc8XqU",
+        "description": "Visit\u00a0https://nordpass.com/twtnordpass and use code twtnordpass to claim the best\u00a0NordPass\u00a0deal with a 30-day money back guarantee!\n\nIn this video, I'm going to run through a quick list of tools that every software engineer should know.\n\nWant to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter. Join here and get my guide How to Make Money With Coding instantly: https://techwithtim.net/newsletter\n\n\u23f3 Timestamps \u23f3\n00:00 | IDE/Text Editor\n03:07 | Version Control\n04:52 | Linux/Terminal Commands\n06:00 | Environment Management\n07:19 | Testing Frameworks\n08:13 | CI/CD\n09:52 | Bonus Tools\n\nHashtags\n#softwareengineertools #softwareengineer #frameworks"
+      },
+      {
+        "title": "Frameworks And Roadmap To Follow For Mastering Agentic AI System",
+        "channel": "Krish Naik",
+        "authority": {
+          "score": 0.62,
+          "views": 39630,
+          "likes": 1035,
+          "comments": 41
+        },
+        "recommendation": "recommended as core curriculum material",
+        "url": "https://www.youtube.com/watch?v=IT-YDyRImNg",
+        "description": "Roadmap: https://github.com/krishnaik06/Roadmap-To-Learn-Agentic-AI\nAgentic AI systems are AI systems designed to operate with a high degree of autonomy, enabling them to make decisions, take actions, and adapt to changing conditions without constant human supervision. They exhibit \"agency,\" meaning they can act on their own, pursue goals, and learn from experience. \n------------------------------------------------------------------------------------------\nJoin our 2.0 Live Agentic AI Batch starting from May 10th 2025\nCourse Enrollment Link: https://www.krishnaik.in/liveclass/2.0%20Live%20Agentic%20AI%20And%20Generative%20AI%20Application%20With%20Cloud%20Bootcamp"
+      },
+      {
+        "title": "Tools and frameworks used in monitoring and evaluating projects",
+        "channel": "Practical M&E and PPM",
+        "authority": {
+          "score": 0.54,
+          "views": 13435,
+          "likes": 247,
+          "comments": 12
+        },
+        "recommendation": "recommended as primary supporting material",
+        "url": "https://www.youtube.com/watch?v=lv9IwJCTIb8",
+        "description": "Tools and frameworks used in monitoring and evaluating projects\nplanning tools\nM&E framework\nlogical framework\ntheory of change \nM&E plan........"
+      },
+      {
+        "title": "Quality Constructs Explained: Tools, Methods and Frameworks for System Testing",
+        "channel": "SYMA",
+        "authority": {
+          "score": 0.4,
+          "views": 5,
+          "likes": 2,
+          "comments": 0
+        },
+        "recommendation": "recommended as primary supporting material",
+        "url": "https://www.youtube.com/watch?v=154fApjgNu8",
+        "description": "How do you put quality into action in system testing? In this video, we explore the constructs of quality: the tools, methods, and frameworks that help organizations build reliable and sustainable systems."
+      },
+      {
+        "title": "Test Frameworks and How to Use Them",
+        "channel": "Sauce Labs",
+        "authority": {
+          "score": 0.38,
+          "views": 1377,
+          "likes": 18,
+          "comments": 0
+        },
+        "recommendation": "suitable as supplementary learning",
+        "url": "https://www.youtube.com/watch?v=O-MAQkH02_U",
+        "description": "What exactly is a test automation framework? How do you use it? What are its benefits? And can you liken it to Lego building blocks? These are some of the questions that our host Jason Baum dives deep into in this episode, with panelists Nikolay Advolodkin and Marcus Merrell joining in on the discussion. \n\nSUBSCRIBE and visit us at https://saucelabs.com/community to unlock the secrets behind the power of testing in software development.\n\n\u25b6 Sauce YouTube channel: https://www.youtube.com/saucelabs\n\u200d\ud83e\udd1d\u200d Community page: https://saucelabs.com/community\n\ud83d\udca1 LinkedIn: https://www.linkedin.com/company/sauce-labs\n\ud83c\udfe0 Home Page: https://saucelabs.com/\n\ud83d\udc26 TWITTER: https://twitter.com/saucelabs\n\ud83d\udca1 LINKEDIN: http://www.linkedin.com/company/sauce-labs\n\ud83c\udf0e SAUCE WEBSITE: https://saucelabs.com\n\n0:00 - Intro\n4:43 - What is a testing framework? \n9:57 - ChatGPT\u2019s definition of a testing framework \n12:46 - Benefits of an automated test framework\n20:10 - How do you choose the right automation test framework? \n30:34 - What\u2019s on your matrix for evaluating testing frameworks?\n36:05 - Closing remarks"
+      }
+    ]
+  },
+  {
+    "task": "Future of Agentic AI",
+    "focus": "Trends and implications for society",
+    "week": 1,
+    "day": 7,
+    "videos": [
+      {
+        "title": "Generative vs Agentic AI: Shaping the Future of AI Collaboration",
+        "channel": "IBM Technology",
+        "authority": {
+          "score": 0.8,
+          "views": 1019806,
+          "likes": 13574,
+          "comments": 421
+        },
+        "recommendation": "recommended as core curriculum material",
+        "url": "https://www.youtube.com/watch?v=EDb37y_MhRw",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdndTY\n\nWant to learn more about Agentic AI + Data? Register here \u2192  https://ibm.biz/BdeGLe\n\nLearn more about Agentic AI + Data here \u2192  https://ibm.biz/BdeGLe\n\nWhat\u2019s the difference between generative AI and agentic AI? \ud83e\udd14 Martin Keen explains how generative AI powers content creation and image generation, while agentic AI uses LLMs and chain of thought reasoning for proactive tasks like personal shopping and conference planning. Discover the future of intelligent AI collaboration! \ud83d\ude80\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdndTz\n\n#generativeai #agenticai #ai #llm"
+      },
+      {
+        "title": "AI Agents Full Course 2026 | AI Agents Tutorial for Beginners | How to Build AI Agents | Simplilearn",
+        "channel": "Simplilearn",
+        "authority": {
+          "score": 0.76,
+          "views": 42679,
+          "likes": 1160,
+          "comments": 4
+        },
+        "recommendation": "recommended as core curriculum material",
+        "url": "https://www.youtube.com/watch?v=UeqXxy83fic",
+        "description": "\ud83d\udd25\ufe0f\ud83d\udd25 Michigan - Applied Generative AI Specialization  - https://www.simplilearn.com/applied-ai-course?utm_campaign=UeqXxy83fic&utm_medium=Lives&utm_source=Youtube\n\ud83d\udd25Professional Certificate Program in Generative AI and Machine Learning - IITG (India Only)  - https://www.simplilearn.com/applied-generative-ai-course?utm_campaign=UeqXxy83fic&utm_medium=Lives&utm_source=Youtube\n\ud83d\udd25Advanced Executive Program In Applied Generative AI - https://www.simplilearn.com/applied-generative-ai-course?utm_campaign=UeqXxy83fic&utm_medium=Lives&utm_source=Youtube\n\nThis AI Agents Full Course 2026 by Simplilearn offers a detailed learning journey to  agentic AI. The AI Agents full course begins with foundational concepts like AI agents, environments, and LLMs (Large Language Models). It then explores Generative AI agents and their applications, followed by an agentic AI roadmap to guide your learning. You'll dive into the math behind it all with Linear Algebra for ML, before mastering the agentic workflow and learning to build AI agents from scratch, including voice agents. The course introduces hands-on tools like Manus AI, GANs, NLP, KNN, MCP, and platforms like Hugging Face. You'll also build Agentic RAG, compare Langchain vs Langgraph vs Langflow vs Langsmith, and explore advanced topics like transformers, multimodal AI, and stable diffusion. Practical tutorials include using N8N, Deepseek, and Meta\u2019s new LLaMA 3.2. Finally, we discuss monetizing AI agents, job interview tools, and wrap up with deep learning interview questions, making it perfect for beginners and experienced professionals.\n\nFollowing are the topics covered in the AI Agents Full Course 2026:\n\n00:00:00 - Introduction to AI Agents Full Course 2-25\n00:01:55 - ai agents tutorial\n00:35:38 - Agentic ai roadmap\n00:50:47 - Natural Language Processing Tutorial\n01:23:36 - ai agents and environments\n01:28:58 - agentic ai workflow \n02:59:18 - build ai agents from scratch\n03:23:00 - how to build ai voice agents \n03:45:28 - manus ai \n03:57:50 - What are Gans\n04:07:12 - Langchain Explained \n04:17:48 - Hugging face\n05:08:08 - build agentic rag \n06:06:47 - AI Video Generations Tools Course \n07:27:54 - Claude 4 vs Gemini 2.5 pro \n07:40:34 - Python AI Web Scraper \n08:06:44 - n8n Tutorial \n08:19:50 - Deepseek r1 \n08:35:55 - Install Deepseek\n08:47:08 - Meta New Lama 3.2\n08:55:26 - Q Learning \n09:17:58 - LangGraph vs LangChain vs LangFlow vs LangSmith\n09:27:31 - make money with ai agents\n09:44:35 - Gen ai tools for job interview \n\n\u2705 Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n\u23e9 Check out the Artificial Intelligence training videos: https://youtube.com/playlist?list=PLEiEAq2VkUULa5aOQmO_al2VVmhC-eqeI \n\n#generativeAI #AIAgents #AIAgentsTutorial #AI #GenAI #ArtificialIntelligence #simplilearn #2026 \n\n\u27a1\ufe0f About Professional Certificate Program in Generative AI and Machine Learning\n\nDive into the future of AI with our Generative AI & Machine Learning course, in collaboration with E&ICT Academy, IIT Guwahati. Learn tools like ChatGPT, OpenAI, Hugging Face, Python, and more. Join masterclasses led by IITG faculty, engage in hands-on projects, and earn Executive Alumni Status.\n\nKey Features:\n\u2705 Program completion certificate from E&ICT Academy, IIT Guwahati\n\u2705 Curriculum delivered in live virtual classes by seasoned industry experts\n\u2705 Opportunity to earn an 'Executive Alumni Status' from E&ICT Academy, IIT Guwahati\n\u2705 Eligibility for a campus immersion program organized at IIT Guwahati\n\u2705 Exclusive hackathons and \u201cask-me-anything\u201d sessions by IBM\n\u2705 Certificates for IBM courses and industry masterclasses by IBM experts\n\u2705 Practical learning through 25+ hands-on projects and 3 industry-oriented capstone projects\n\u2705 Simplilearn's JobAssist helps you get noticed by top hiring companies\n\nSkills Covered:\n\u2705 Generative AI\n\u2705 Prompt Engineering\n\u2705 Chatbot Development\n\u2705 Supervised and Unsupervised Learning\n\u2705 Model Training and Optimization\n\u2705 Model Evaluation and Validation\n\u2705 Ensemble Methods\n\u2705 Deep Learning\n\u2705 Natural Language Processing\n\u2705 Computer Vision\n\u2705 Reinforcement Learning\n\u2705 Machine Learning Algorithms\n\u2705 Speech Recognition\n\u2705 Statistics\n\nLearning Path:\n\u2705 Program Induction\n\u2705 Programming Fundamentals\n\u2705 Python for Data Science (IBM)\n\u2705 Applied Data Science with Python\n\u2705 Machine Learning\n\u2705 Deep Learning with TensorFlow (IBM)\n\u2705 Deep Learning Specialization\n\u2705 Essentials of Generative AI, Prompt Engineering & ChatGPT\n\u2705 Advanced Generative AI\n\u2705 Capstone\n\n\ud83d\udc49 Learn More At: https://www.simplilearn.com/applied-generative-ai-course?utm_campaign=UeqXxy83fic&utm_medium=Lives&utm_source=Youtube"
+      },
+      {
+        "title": "Agentic AI Full Course 2026 | AI Agents Tutorial For Beginners | Agentic AI Course | Edureka",
+        "channel": "edureka!",
+        "authority": {
+          "score": 0.67,
+          "views": 73902,
+          "likes": 1343,
+          "comments": 16
+        },
+        "recommendation": "recommended as core curriculum material",
+        "url": "https://www.youtube.com/watch?v=-rUKr8JDits",
+        "description": "\ud83d\udd25Agentic AI Training Course - Master AI Agents: https://www.edureka.co/agentic-ai-training-course\n\ud83d\udd25Integrated MS+PGP Program in Data Science & AI:https://www.edureka.co/dual-certification-programs/ms-data-science-pgp-gen-ai-ml-birchwood\n\nExplore the future of artificial intelligence with Agentic AI! In this video, we dive into the exciting developments and advancements that are set to shape the industry in 2026. We will learn what Agentic AI is and how it goes beyond traditional AI by acting with purpose and autonomy. You\u2019ll discover 5 powerful secrets behind Agentic AI\u2014from multi-agent collaboration to real-world tool integration and ethical guardrails. By the end, you\u2019ll understand how Agentic AI is transforming industries and why it\u2019s the future of intelligent systems.\n \nJoin us as we discuss the latest trends, innovations, and predictions for Agentic AI in 2026. Whether you're an AI enthusiast, a business leader, or simply curious about the future of technology, this video is for you. Stay ahead of the curve and discover what's next for Agentic AI!\n\n00:00:00 Introduction \n00:17:13 What is Agentic AI?\n00:36:19 Agentic AI vs Generative AI\n00:46:07 Agentic AI Roadmap\n00:52:18 Introduction to Artificial Intelligence\n00:58:37 Introduction to Deep Learning\n02:28:29 Artificial Neural Network\n03:08:09 Transformers Explained Using Generative AI\n03:09:37 Transformers Neural Networks Explained\n03:21:52 What are Large Language Models?\n03:38:17 LLM vs SLM\n03:41:59 What is LangChain?\n03:59:35 What is RAG?\n04:22:07 LLMOps: The Future of AI Development\n04:29:57 Prompt Engineering \n04:42:41 Natural Language Processing (NLP) & Text Mining using NLTK\n05:22:21 KNN Algorithm using Python\n05:45:23 Alibaba\u2019s Qwen 2.5-Max Just Beat GPT-4 & DeepSeek?\n05:49:47 DeepSeek vs OpenAI: Who Wins the AI Race?\n06:02:06 Deep Learning Interview Questions\n\n\u2705Subscribe to our channel to get video updates. Hit the subscribe button above: https://goo.gl/6ohpTV\n\n\ud83d\udcddFeel free to share your comments below.\ud83d\udcdd\n\n\ud835\udc04\ud835\udc1d\ud835\udc2e\ud835\udc2b\ud835\udc1e\ud835\udc24\ud835\udc1a \ud835\udc0e\ud835\udc27\ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc1e \ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc22\ud835\udc27\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc02\ud835\udc1e\ud835\udc2b\ud835\udc2d\ud835\udc22\ud835\udc1f\ud835\udc22\ud835\udc1c\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27\ud835\udc2c\n\n\ud83d\udd35 DevOps Online Training: http://bit.ly/3VkBRUT \n\ud83c\udf15 AWS Online Training: http://bit.ly/3ADYwDY\n\ud83d\udd35 React Online Training: http://bit.ly/3Vc4yDw\n\ud83c\udf15 Tableau Online Training: http://bit.ly/3guTe6J\n\ud83d\udd35 Power BI Online Training: http://bit.ly/3VntjMY\n\ud83c\udf15 Salesforce Online Training: http://bit.ly/3OsAXDH\n\ud83d\udd35 Cybersecurity Online Training: http://bit.ly/3tXgw8t\n\ud83c\udf15 Java Online Training: http://bit.ly/3tRxghg\n\ud83d\udd35 Big Data Online Training: http://bit.ly/3EvUqP5\n\ud83c\udf15 RPA Online Training: http://bit.ly/3GFHKYB\n\ud83d\udd35 Python Online Training: http://bit.ly/3Oubt8M\n\ud83c\udf15 Azure Online Training: http://bit.ly/3i4P85F\n\n\ud83d\udd34 \ud835\udc04\ud835\udc1d\ud835\udc2e\ud835\udc2b\ud835\udc1e\ud835\udc24\ud835\udc1a \ud835\udc11\ud835\udc28\ud835\udc25\ud835\udc1e-\ud835\udc01\ud835\udc1a\ud835\udc2c\ud835\udc1e\ud835\udc1d \ud835\udc02\ud835\udc28\ud835\udc2e\ud835\udc2b\ud835\udc2c\ud835\udc1e\ud835\udc2c\n\n\ud83d\udd35 DevOps Engineer Masters Program: http://bit.ly/3Oud9PC\n\ud83c\udf15 Cloud Architect Masters Program: http://bit.ly/3OvueZy\n\ud83d\udd35 Data Scientist Masters Program: http://bit.ly/3tUAOiT\n\ud83c\udf15 Big Data Architect Masters Program: http://bit.ly/3tTWT0V\n\ud83d\udd35 Machine Learning Engineer Masters Program: http://bit.ly/3AEq4c4\n\ud83c\udf15 Business Intelligence Masters Program: http://bit.ly/3UZPqJz\n\ud83d\udd35 Python Developer Masters Program: http://bit.ly/3EV6kDv\n\n\n\ud83d\udd34 \ud835\udc04\ud835\udc1d\ud835\udc2e\ud835\udc2b\ud835\udc1e\ud835\udc24\ud835\udc1a \ud835\udc14\ud835\udc27\ud835\udc22\ud835\udc2f\ud835\udc1e\ud835\udc2b\ud835\udc2c\ud835\udc22\ud835\udc2d\ud835\udc32 \ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc20\ud835\udc2b\ud835\udc1a\ud835\udc26\ud835\udc2c\n\n\ud83d\udd35 Post Graduate Program in DevOps with Purdue University:  https://bit.ly/3Ov52lT\n\n\ud83c\udf15 Advanced Certificate Program in Data Science with E&ICT Academy, IIT Guwahati: http://bit.ly/3V7ffrh\n\n\ud83d\udd35 Advanced Certificate Program in Cloud Computing with E&ICT Academy, IIT Guwahati: https://bit.ly/43vmME8\n\n\ud83d\udccc\ud835\udc13\ud835\udc1e\ud835\udc25\ud835\udc1e\ud835\udc20\ud835\udc2b\ud835\udc1a\ud835\udc26: https://t.me/edurekaupdates\n\ud83d\udccc\ud835\udc13\ud835\udc30\ud835\udc22\ud835\udc2d\ud835\udc2d\ud835\udc1e\ud835\udc2b: https://twitter.com/edurekain\n\ud83d\udccc\ud835\udc0b\ud835\udc22\ud835\udc27\ud835\udc24\ud835\udc1e\ud835\udc1d\ud835\udc08\ud835\udc27: https://www.linkedin.com/company/edureka\n\ud83d\udccc\ud835\udc08\ud835\udc27\ud835\udc2c\ud835\udc2d\ud835\udc1a\ud835\udc20\ud835\udc2b\ud835\udc1a\ud835\udc26: https://www.instagram.com/edureka_learning/\n\ud83d\udccc\ud835\udc05\ud835\udc1a\ud835\udc1c\ud835\udc1e\ud835\udc1b\ud835\udc28\ud835\udc28\ud835\udc24: https://www.facebook.com/edurekaIN/ \n\ud83d\udccc\ud835\udc0c\ud835\udc1e\ud835\udc1e\ud835\udc2d\ud835\udc2e\ud835\udc29: https://www.meetup.com/edureka/\n\ud83d\udccc\ud835\udc02\ud835\udc28\ud835\udc26\ud835\udc26\ud835\udc2e\ud835\udc27\ud835\udc22\ud835\udc2d\ud835\udc32: https://www.edureka.co/community/\n\n- - - - - - - - - - - - - - \n\nWhat is Agentic AI?\nAgentic AI refers to artificial intelligence systems that can autonomously make decisions, take actions, and pursue goals with minimal human intervention. Unlike traditional AI, which adheres to predetermined rules, agentic AI may dynamically adapt to new situations.\n\nWhat are the prerequisites for this Agentic AI Training Course?\nIn order to complete this course successfully, participants need to have a basic understanding of the Python programming language, machine learning, deep learning, natural language processing, generative AI, and prompt engineering concepts. \n\nWho should take this AI Agents Training Course?\nThe Agentic AI online Training Course is ideal for AI enthusiasts, developers, and professionals looking to build autonomous AI agents. It is best suited for LLM Engineers, Generative AI Engineers, AI Research scientists, AI/ML practitioners, and freshers who want to leverage Agentic AI for automation and decision-making.\n\nFor more information, please write back to us at sales@edureka.in or call us at IND: 9606058406 / US: +18885487823(toll-free).\n\n#agenticai #aiagents #agenticaicourse #generativeai"
+      },
+      {
+        "title": "Agentic AI Full Course 2026 | Agentic AI Tutorial For Beginners | Agentic AI Course | Simplilearn",
+        "channel": "Simplilearn",
+        "authority": {
+          "score": 0.6,
+          "views": 13074,
+          "likes": 282,
+          "comments": 19
+        },
+        "recommendation": "recommended as core curriculum material",
+        "url": "https://www.youtube.com/watch?v=2R-niMsB0QY",
+        "description": "\ud83d\udd25Applied Generative AI Specialization - https://www.simplilearn.com/applied-ai-course?utm_campaign=2R-niMsB0QY&utm_medium=DescriptionFirstFold&utm_source=Youtube\n\ud83d\udd25Professional Certificate Program in Generative AI and Machine Learning - IITG (India Only) - https://www.simplilearn.com/iitg-generative-ai-machine-learning-program?utm_campaign=2R-niMsB0QY&utm_medium=DescriptionFirstFold&utm_source=Youtube \n\ud83d\udd25Advanced Executive Program In Applied Generative AI - https://www.simplilearn.com/applied-generative-ai-course?utm_campaign=2R-niMsB0QY&utm_medium=DescriptionFirstFold&utm_source=Youtube\n\nThis Agentic AI Full Course 2026 by Simplilearn is designed to help beginners understand how modern AI systems can plan tasks, make decisions, and automate workflows. The course starts with the basics of Agentic AI, how it works, and how it is different from traditional AI models. You will then learn about AI agents, agent workflows, tools, and real-world use cases in simple terms. The course also introduces concepts like prompt engineering, automation, and building AI-powered applications. As you progress, you will explore practical examples and future trends of autonomous AI systems. This course is ideal for anyone who wants to understand next-generation AI technology and how it can be used in real business and development scenarios.\n\nFollowing are the topics covered in the Agentic AI Full Course 2026:\n\n00:00:00 - Introduction To Agentic AI \n00:03:11 - Chapter 1: Basics of Agentic AI \n00:08:06 - Chapter 2: Core Concepts of Agentic AI\n00:15:15 - Chapter 3: Agentic AI Frameworks & Libraries\n00:22:09 - Chapter 4: Memory and Long-Term Context \n00:30:01 - Chapter 5: Planning & Decision Chains \n00:36:25 - Chapter 6: Advanced Use-Cases of Agentic AI \n00:39:48 - Chapter 7: Agent Evaluation and Prompt Optimization \n00:43:50 - Chapter 8: Risks, Ethics, and Future of Agentic AI\n00:47:27 - Chapter 9: Hands-On Project \n\n\u2705Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n\u23e9 Check out More AI Videos By Simplilearn: https://youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq   \n\n#agenticaifullcourse #agenticai #agenticaiprojects #agenticaitutorial #agenticaicourse #agenticaiexplained #agenticairoadmap #agenticaiprojectendtoend #aiagentsfullguide #aiagent #ai #whatareaiagents #simplilearn #2026\n\n\u27a1\ufe0f About Applied Generative AI Specialization\n\nThe Applied Gen AI Course equips learners with the skills to build AI-driven solutions. Learn to design, train, and deploy models while addressing ethics, bias, and compliance. Gain industry-relevant experience through hands-on projects to drive innovation and stay competitive in an AI-powered world.\n\nKey Features\n\n\u2705 Get a program completion certificate from Michigan Engineering Professional Education\n\u2705 Engage in 70+ hours of live online sessions led by industry experts\n\u2705 Access a comprehensive curriculum covering Python, AI literacy, and GenAI principles (VAEs, GANs, and LLMs)\n\u2705 Explore agentic frameworks and create adaptive AI agents using LangChain\n\u2705 Implement advanced prompt engineering, RAG, and fine-tune models for domain-specific AI solutions\n\u2705 Apply best practices for AI transparency, fairness, security, and regulatory compliance\n\u2705 Work with 12+ modern AI tools, including OpenAI, Stable Diffusion, Microsoft Copilot, and Streamlit\n\u2705 Earn a course completion certificate hosted on the Microsoft Learn portal for Microsoft courses\n\u2705 Experience flexible learning with session recordings\n\u2705 Simplilearn's JobAssist helps you get noticed by top hiring companies\n\u2705 Gain 24/7 access to Simplilearn\u2019s Learning Management System (LMS)\n\nSkills Covered\n\u2705 Prompt Engineering\n\u2705 Agentic Frameworks\n\u2705 AI Agents\n\u2705 LangChain for Workflow Design\n\u2705 Retrieval Augmented Generation RAG\n\u2705 LLM Fine Tuning\n\u2705 Stable Diffusion\n\u2705 Variational Autoencoders VAEs\n\u2705 Generative Adversarial Networks GANs\n\u2705 Attention Mechanisms\n\u2705 Transformers\n\u2705 GenAI Application Development\n\u2705 LLM Benchmarking\n\u2705 GenAI Governance\n\u2705 AI Image Generation\n\n\ud83d\udc49 Enroll Now: https://www.simplilearn.com/applied-ai-course?utm_campaign=2R-niMsB0QY&utm_medium=Description&utm_source=Youtube\n\n\ud83d\udd25\ud83d\udd25 Interested in Attending Live Classes? Call Us: IN - 18002127688 / US - +18445327688"
+      },
+      {
+        "title": "Agentic AI explained: the future of smartphone autonomy",
+        "channel": "ProductNation",
+        "authority": {
+          "score": 0.38,
+          "views": 58468,
+          "likes": 33,
+          "comments": 5
+        },
+        "recommendation": "suitable as supplementary learning",
+        "url": "https://www.youtube.com/watch?v=mkmLGhzOrtQ",
+        "description": "The AI in your phone is about to go from assistant to agentic. It\u2019s going to be capable of making decisions for you.\n\nBut how will that look? We talk about what agentic AI actually is and how it\u2019ll change how you use your smartphone in a BIG way.\n\nBig thanks to Samsung Malaysia for sponsoring this video.\n\nTimestamps:\nIntro - 00:00\nWhat is Agentic AI? - 00:35\nAI with Autonomy - 02:10\nContextual Awareness - 03:21\nPrivacy Concerns - 05:03\nOn-Device Processing - 05:41\nIncreased Efficiency - 06:16\nAccountability Issues - 06:58\nConclusion - 07:34\nOutro - 08:05\n\nSubscribe for more videos!\r\n\r\n#AgenticAI #AI #Smartphones #Automation #ProductNation \r\n\r\n---------------------------------------------------------------------------\r\nCheck us out!\r\nProductNation - https://productnation.co/my/\r\nFacebook - \r\nhttps://www.facebook.com/productnationco\r\nInstagram - https://www.instagram.com/Productnationco\r\n\r\nSubscribe now for more videos like this!"
+      }
+    ]
+  }
+]
