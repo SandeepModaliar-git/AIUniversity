@@ -1,12 +1,12 @@
 #%%
 import math
-
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 import os
 from typing import Annotated, TypedDict
 from langgraph.graph import add_messages
+from langgraph.types import Send
 from langgraph.types import interrupt
 import logging
 from langgraph.graph import StateGraph, END, START
@@ -19,7 +19,9 @@ import json
 from urllib.parse import urlparse, parse_qs
 from langchain_core.messages import AIMessage, ToolMessage
 from googleapiclient.discovery import build
+import httplib2
 from copy import deepcopy
+import operator
 
 
 logging.basicConfig(
@@ -41,103 +43,113 @@ llm = ChatOpenAI(
 )
 
 API_KEY = os.getenv("YOUTUBE_API_KEY")
-youtube = build("youtube", "v3", developerKey=API_KEY)
+http = httplib2.Http(timeout=30, proxy_info=None)
+youtube = build(
+    "youtube",
+    "v3",
+    developerKey=os.environ["YOUTUBE_API_KEY"],
+    http=http
+)
 #%%
 
 class AgentState(TypedDict):
-    messages: Annotated[list, add_messages]
     level : str
     query : str
-    revised_query : str
+    duration : str
+    roadmap_tasks : list[dict]
+    results: Annotated[list, operator.add]
+    final_roadmap : list[dict]
     serper_results : list[str]
-    authority_scores : list[float]
-    recommendations : list[str]
-    titles : list[str]
-    channels : list[str]
     urls : dict[str, str]
-    videos : list[dict[str,str]]
-    no_of_videos : int
-    learning_path : list[dict[str,str]]
+    task: str
+    week: int
+    day: int
+    focus: str
 
 #%%
-def query_expansion_node(state : AgentState) -> AgentState:
-    logger.info("Query Expansion Node in Action")
-    system_prompt = (
-        f"""You are a Subject Matter Expert in Information Technology and your task is to recommend the right keywords to suggest the youtube videos that are based on student level i.e., Beginner to Advanced, keywords must best match with the provided query. The query is delimited by triple back ticks below
-        ```{state["query"]}``` and revise the query as per student's level {state["level"]}. Provide just the final revised query as below:
-        Revised Query : <query>
-        """
-    )
+
+#%%
+def roadmap_planner_node(state: AgentState) -> AgentState:
+
+    system_prompt = f"""
+    Generate a roadmap to learn {state["query"]}.
+
+    Student level: {state["level"]}
+    Duration: {state["duration"]}
+
+    Return ONLY this markdown table:
+
+    |Week|Day|Topic Name|Focus|
+    |1|1|Topic|Focus|
+    """
+
     response = llm.invoke(system_prompt)
-    return {"messages" : [response], "revised_query" : response.content}
 
+    lines = response.content.split("\n")
+
+    tasks = []
+
+    for line in lines:
+
+        if "|" not in line:
+            continue
+
+        parts = [p.strip() for p in line.split("|")]
+
+        if len(parts) < 5:
+            continue
+
+        if parts[1].lower() == "week":
+            continue
+
+        if parts[1].strip("-") == "":
+            continue
+
+        tasks.append(
+            {
+                "week": int(parts[1]),
+                "day": int(parts[2]),
+                "task": parts[3],
+                "focus": parts[4],
+            }
+        )
+
+    return {"roadmap_tasks": tasks}
 #%%
-def get_video_id(url):
-    parsed = urlparse(url)
-    hostname = parsed.hostname
+def dispatch_node(state: AgentState):
+    sends = []
 
-    if not hostname:
-        return None
-
-    # Short links
-    if hostname == "youtu.be":
-        return parsed.path.lstrip("/").split("?")[0]
-
-    # Standard YouTube links
-    if "youtube.com" in hostname:
-
-        # watch?v=
-        if parsed.path == "/watch":
-            return parse_qs(parsed.query).get("v", [None])[0]
-
-        # /shorts/
-        if parsed.path.startswith("/shorts/"):
-            return parsed.path.split("/")[2]
-
-        # /embed/
-        if parsed.path.startswith("/embed/"):
-            return parsed.path.split("/")[2]
-
-    return None
-
-def serper_results_node(state: AgentState) -> AgentState:
-    url = "https://google.serper.dev/search"
-    payload = {
-      "q": f"site:youtube.com {state["revised_query"].split(":")[-1].strip()}"
-    }
-    headers = {
-      'X-API-KEY': os.environ["SERPER_API_KEY"],
-      'Content-Type': 'application/json'
-    }
-    videos = []
-    for page in range(2):
-        payload["page"] = page + 1
-        response = requests.request("POST", url, headers=headers, json=payload)
-        results = json.loads(response.text)["organic"]
-        for result in results:
-            if "youtube.com" in result["link"]:
-                videos.append(result["link"])
-    video_ids = []
-    urls = {}
-    for video in videos:
-        video_id = get_video_id(video)
-        video_ids.append(video_id)
-        urls[video_id] = video
-
-    return {
-        "serper_results" : video_ids,
-        "urls" : urls,
-        "revised_query" : state["revised_query"].split(":")[-1].strip()
-    }
-
+    for task in state["roadmap_tasks"]:
+        sends.append(
+            Send(
+                "roadmap_worker_node",
+                {
+                    "task": task["task"],
+                    "week": task["week"],
+                    "day": task["day"],
+                    "focus": task["focus"]
+                }
+            )
+        )
+    return sends
 #%%
 def get_counts(video_ids):
-    request = youtube.videos().list(
-            part="snippet,statistics,contentDetails",
-            id=",".join([video for video in video_ids if video])
-            )
+    # request = youtube.videos().list(
+    #         part="snippet,statistics,contentDetails",
+    #         id=",".join([video for video in video_ids if video])
+    #         )
+    url = "https://www.googleapis.com/youtube/v3/videos"
 
-    response = request.execute()
+    params = {
+        "part": "snippet,statistics,contentDetails",
+        "id": ",".join(video_ids),
+        "key": os.environ["YOUTUBE_API_KEY"]
+    }
+
+    response = requests.get(url, params=params, timeout=30)
+    response = response.json()
+
+    #response = request.execute()
     video_summaries = {}
     for video in response["items"]:
         views = int(video.get("statistics", {}).get("viewCount", 0))
@@ -177,8 +189,10 @@ def get_authority_scores(video_ids_dict):
 
         authority_score = 0.6 * view_score + 0.4 * engagement_score
 
-        authority_scores_dict[video_id]["authority_score"] = round(authority_score, 2)
-
+        authority_scores_dict[video_id]["authority"] = {"score" : round(authority_score, 2),
+                                                        "views" : data["views"],
+                                                        "likes" : data["likes"],
+                                                        "comments" : data["comments"]}
     return authority_scores_dict
 
 def get_video_summaries(authority_scores_dict, urls):
@@ -191,8 +205,8 @@ def get_video_summaries(authority_scores_dict, urls):
     for video_id in authority_scores_dict.keys():
         video_ids.append(video_id)
         focus_list.append(authority_scores_dict[video_id]["description"])
-        authority_scores.append(authority_scores_dict[video_id]["authority_score"])
-        score = authority_scores_dict[video_id]["authority_score"]
+        authority_scores.append(authority_scores_dict[video_id]["authority"])
+        score = authority_scores_dict[video_id]["authority"]["score"]
         titles.append(authority_scores_dict[video_id]["title"])
         channels.append(authority_scores_dict[video_id]["channelTitle"])
         if score >= 0.6:
@@ -205,138 +219,126 @@ def get_video_summaries(authority_scores_dict, urls):
             recommendations.append("optional reference material")
 
     videos = []
-    for video_id, title, channel, authority_score, recommendation, focus in zip(video_ids, titles, channels, authority_scores, recommendations, focus_list):
-        video_dict = {"title" : title, "channel" : channel, "authority_score" : authority_score, "recommendation" : recommendation, "url" : urls[video_id], "description" : focus}
+    for video_id, title, channel, authority, recommendation, focus in zip(video_ids, titles, channels, authority_scores, recommendations, focus_list):
+        video_dict = {"title" : title, "channel" : channel, "authority" : authority, "recommendation" : recommendation, "url" : urls[video_id], "description" : focus}
         videos.append(video_dict)
-    videos = sorted(videos, key=lambda x: x["authority_score"], reverse=True)
+    videos = sorted(videos, key=lambda x: x["authority"]["score"], reverse=True)
     return {
-        "videos" : videos,
+        "videos" : videos[:5],
     }
 
-def generate_video_summaries_node(state : AgentState) -> AgentState:
-    serper_results = state["serper_results"]
-    urls = state["urls"]
-    video_ids_dict = get_counts(serper_results)
+def get_video_id(url):
+    parsed = urlparse(url)
+    hostname = parsed.hostname
+
+    if not hostname:
+        return None
+
+    # Short links
+    if hostname == "youtu.be":
+        return parsed.path.lstrip("/").split("?")[0]
+
+    # Standard YouTube links
+    if "youtube.com" in hostname:
+
+        # watch?v=
+        if parsed.path == "/watch":
+            return parse_qs(parsed.query).get("v", [None])[0]
+
+        # /shorts/
+        if parsed.path.startswith("/shorts/"):
+            return parsed.path.split("/")[2]
+
+        # /embed/
+        if parsed.path.startswith("/embed/"):
+            return parsed.path.split("/")[2]
+
+    return None
+
+
+def roadmap_worker_node(state: AgentState) -> AgentState:
+    task = state["task"]
+    week = state["week"]
+    day = state["day"]
+    focus = state["focus"]
+
+    url = "https://google.serper.dev/search"
+    payload = {
+      "q": f"site:youtube.com {task} tutorial OR course OR lecture OR explained"
+    }
+    headers = {
+      'X-API-KEY': os.environ["SERPER_API_KEY"],
+      'Content-Type': 'application/json'
+    }
+    videos = []
+    session = requests.Session()
+    session.trust_env = False   # ignores system proxy
+
+    for page in range(1):
+        payload["page"] = page + 1
+        response = session.post(url, headers=headers, json=payload, timeout=30)
+        results = json.loads(response.text)["organic"]
+        for result in results:
+            if "youtube.com" in result["link"]:
+                videos.append(result["link"])
+    video_ids = []
+    urls = {}
+    for video in videos:
+        video_id = get_video_id(video)
+        if not video_id:
+            continue
+        video_ids.append(video_id)
+        urls[video_id] = video
+
+    video_ids_dict = get_counts(video_ids)
     authority_scores_dict = get_authority_scores(video_ids_dict)
     video_summaries = get_video_summaries(authority_scores_dict, urls)
-    return video_summaries
 
-#%%
-def generate_learning_path_node(state : AgentState) -> AgentState:
-    system_prompt = """
-    You are an expert technical educator.
-
-    Your task is to generate a short learning-focused briefing for a YouTube video.
-
-    You will be given the following information about a video:
-    - title
-    - channel
-    - description
-
-    Write a concise briefing explaining what a learner will gain from watching this video.
-
-    Guidelines:
-
-    1. Focus on the learning outcome.
-    2. Mention the key topic or concepts covered.
-    3. Keep the explanation concise (1–2 sentences).
-    4. Do NOT repeat the title.
-    5. Do NOT include promotional language.
-    6. Write in a clear and educational tone.
-
-    Output format:
-
-    Briefing: <very short explanation of what the learner will gain from the video>
-    """
-
-    videos = state["videos"]
-
-    core = [v for v in videos if "core" in v["recommendation"]]
-    primary = [v for v in videos if "primary" in v["recommendation"]]
-    support = [v for v in videos if "support" in v["recommendation"]]
-    optional = [v for v in videos if "optional" in v["recommendation"]]
-
-    learning_path = []
-    week = 1
-
-    while core or primary or support or optional:
-
-        videos_this_week = []
-
-        # 1–2 core videos
-        for _ in range(min(2, len(core))):
-            videos_this_week.append(core.pop(0))
-
-        # 1 primary video
-        if primary:
-            videos_this_week.append(primary.pop(0))
-
-        # 1–2 support videos
-        for _ in range(min(2, len(support))):
-            videos_this_week.append(support.pop(0))
-
-        # optional enrichment
-        if optional:
-            videos_this_week.append(optional.pop(0))
-
-        titles = "\n".join([v["description"] for v in videos_this_week])
-
-        user_prompt = f"""
-        These videos will be watched on Week {week}.
-
-        Videos:
-        {titles}
-
-        Write a short learning objective summarizing what the learner will gain. The response should say in this week not in this video.
-        """
-
-        focus = llm.invoke([
-            AIMessage(content=system_prompt),
-            HumanMessage(content=user_prompt)
-        ]).content.split(":")[-1].strip()
-
-        learning_path.append({
-            "week": week,
-            "focus": focus,
-            "videos": videos_this_week
-        })
-
-        week += 1
     return {
-        "learning_path": learning_path
+        "results": [{
+            "task": task,
+            "focus": focus,
+            "week": week,
+            "day": day,
+            "videos" : video_summaries["videos"]
+        }]
     }
-
 #%%
-def save_results(state : AgentState) -> AgentState:
-    serializable_state = state.copy()
+def aggregate_node(state: AgentState):
+    unique_tasks = {}
+    for task in state["results"]:
+        key = (task["week"], task["day"])
+        unique_tasks[key] = task   # latest wins
+    roadmap = sorted(
+        unique_tasks.values(),
+        key=lambda x: (x["week"], x["day"])
+    )
+    return {"final_roadmap": roadmap}
+#%%
+def save_results(state: AgentState):
+    for key in ["serper_results", "urls"]:
+        state.pop(key, None)
 
-    if "messages" in serializable_state:
-        serializable_state["messages"] = [
-            {"type": type(m).__name__, "content": m.content}
-            for m in serializable_state["messages"]
-        ]
-    for key in ["messages", "urls", "serper_results", "recommendations", "authority_scores", "titles", "channels", "videos"]:
-        serializable_state.pop(key, None)
-    serializable_state["no_of_weeks"] = len(serializable_state["learning_path"])
     with open("results.json", "w", encoding="utf-8") as f:
-        json.dump(serializable_state, f, indent=2)
-
+        json.dump(state["final_roadmap"], f, indent=2)
     return state
 #%%
 workflow = StateGraph(AgentState)
-workflow.add_node("query_expansion_node", query_expansion_node)
-workflow.add_node("serper_results_node", serper_results_node)
-workflow.add_node("generate_video_summaries_node", generate_video_summaries_node)
-workflow.add_node("generate_learning_path_node", generate_learning_path_node)
+workflow.add_node("roadmap_planner_node", roadmap_planner_node)
+# workflow.add_node("dispatch_node", dispatch_node)
+workflow.add_node("roadmap_worker_node", roadmap_worker_node)
+workflow.add_node("aggregate_node", aggregate_node)
 workflow.add_node("save_results", save_results)
 
-workflow.set_entry_point("query_expansion_node")
-workflow.add_edge(START, "query_expansion_node")
-workflow.add_edge("query_expansion_node", "serper_results_node")
-workflow.add_edge("serper_results_node", "generate_video_summaries_node")
-workflow.add_edge("generate_video_summaries_node", "generate_learning_path_node")
-workflow.add_edge("generate_learning_path_node", "save_results")
+workflow.set_entry_point("roadmap_planner_node")
+workflow.add_edge(START, "roadmap_planner_node")
+workflow.add_conditional_edges("roadmap_planner_node", dispatch_node)
+workflow.add_edge("roadmap_worker_node", "aggregate_node")
+workflow.add_edge("aggregate_node", "save_results")
+#workflow.add_edge("dispatch_node", "save_results")
 workflow.add_edge("save_results", END)
 conn = sqlite3.connect("ai_university.sqlite", check_same_thread=False)
 memory = SqliteSaver(conn)
 app = workflow.compile(checkpointer=memory)
+
+

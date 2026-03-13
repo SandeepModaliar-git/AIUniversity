@@ -11,6 +11,7 @@ api = FastAPI()
 class LearningRequest(BaseModel):
     query: str
     level: str
+    duration: str
 
 
 @api.post("/generate-learning-path")
@@ -18,7 +19,8 @@ def generate_learning_path(request: LearningRequest):
 
     initial_input = {
         "query": request.query,
-        "level": request.level
+        "level": request.level,
+        "duration" : request.duration
     }
 
     config = {"configurable": {"thread_id": str(uuid.uuid4())}}
@@ -26,9 +28,8 @@ def generate_learning_path(request: LearningRequest):
     state = app.invoke(initial_input, config=config)
 
     return {
-    "level": state["level"],
-    "query": state["query"],
-    "revised_query": state["revised_query"],
-    "learning_path": state["learning_path"],
-    "no_of_weeks" : len(state["learning_path"]),
+        "level" : state["level"],
+        "query" : state["query"],
+        "duration" : state["duration"],
+        "learning_plan" : state["final_roadmap"]
     }
